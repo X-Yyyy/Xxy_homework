@@ -1,0 +1,1216 @@
+MultiRF2_Net_tof_ir_prova
+
+TRAIN
+[epoch: 0, iter:      1] loss(avg): 2.481	 train_acc(avg): 11.719%
+[epoch: 0, iter:      3] loss(avg): 2.486	 train_acc(avg): 9.375%
+[epoch: 0, iter:      5] loss(avg): 2.487	 train_acc(avg): 9.375%
+[epoch: 0, iter:      7] loss(avg): 2.486	 train_acc(avg): 9.746%
+###VALIDATION###
+[epoch: 0, iter:      0] val_loss(avg): 2.489	 val_acc(avg): 7.812%
+[epoch: 0, iter:      2] val_loss(avg): 2.488	 val_acc(avg): 8.333%
+[epoch: 0, iter:      4] val_loss(avg): 2.487	 val_acc(avg): 8.594%
+[epoch: 0, iter:      6] val_loss(avg): 2.486	 val_acc(avg): 8.929%
+[epoch: 0, iter:      8] val_loss(avg): 2.487	 val_acc(avg): 8.854%
+[epoch: 0, iter:     10] val_loss(avg): 2.484	 val_acc(avg): 9.588%
+TRAIN
+[epoch: 1, iter:      1] loss(avg): 2.486	 train_acc(avg): 6.250%
+[epoch: 1, iter:      3] loss(avg): 2.488	 train_acc(avg): 7.812%
+[epoch: 1, iter:      5] loss(avg): 2.486	 train_acc(avg): 8.464%
+[epoch: 1, iter:      7] loss(avg): 2.485	 train_acc(avg): 8.535%
+###VALIDATION###
+[epoch: 1, iter:      0] val_loss(avg): 2.487	 val_acc(avg): 7.031%
+[epoch: 1, iter:      2] val_loss(avg): 2.485	 val_acc(avg): 7.812%
+[epoch: 1, iter:      4] val_loss(avg): 2.484	 val_acc(avg): 8.125%
+[epoch: 1, iter:      6] val_loss(avg): 2.484	 val_acc(avg): 8.482%
+[epoch: 1, iter:      8] val_loss(avg): 2.484	 val_acc(avg): 8.333%
+[epoch: 1, iter:     10] val_loss(avg): 2.481	 val_acc(avg): 9.162%
+TRAIN
+[epoch: 2, iter:      1] loss(avg): 2.476	 train_acc(avg): 10.938%
+[epoch: 2, iter:      3] loss(avg): 2.477	 train_acc(avg): 11.719%
+[epoch: 2, iter:      5] loss(avg): 2.479	 train_acc(avg): 9.896%
+[epoch: 2, iter:      7] loss(avg): 2.481	 train_acc(avg): 9.941%
+###VALIDATION###
+[epoch: 2, iter:      0] val_loss(avg): 2.485	 val_acc(avg): 8.594%
+[epoch: 2, iter:      2] val_loss(avg): 2.482	 val_acc(avg): 8.854%
+[epoch: 2, iter:      4] val_loss(avg): 2.481	 val_acc(avg): 9.062%
+[epoch: 2, iter:      6] val_loss(avg): 2.480	 val_acc(avg): 9.375%
+[epoch: 2, iter:      8] val_loss(avg): 2.481	 val_acc(avg): 9.288%
+[epoch: 2, iter:     10] val_loss(avg): 2.477	 val_acc(avg): 10.014%
+TRAIN
+[epoch: 3, iter:      1] loss(avg): 2.473	 train_acc(avg): 8.984%
+[epoch: 3, iter:      3] loss(avg): 2.477	 train_acc(avg): 9.180%
+[epoch: 3, iter:      5] loss(avg): 2.476	 train_acc(avg): 9.505%
+[epoch: 3, iter:      7] loss(avg): 2.475	 train_acc(avg): 9.766%
+###VALIDATION###
+[epoch: 3, iter:      0] val_loss(avg): 2.483	 val_acc(avg): 7.812%
+[epoch: 3, iter:      2] val_loss(avg): 2.478	 val_acc(avg): 8.333%
+[epoch: 3, iter:      4] val_loss(avg): 2.477	 val_acc(avg): 8.594%
+[epoch: 3, iter:      6] val_loss(avg): 2.475	 val_acc(avg): 8.929%
+[epoch: 3, iter:      8] val_loss(avg): 2.476	 val_acc(avg): 8.854%
+[epoch: 3, iter:     10] val_loss(avg): 2.470	 val_acc(avg): 9.588%
+TRAIN
+[epoch: 4, iter:      1] loss(avg): 2.479	 train_acc(avg): 8.984%
+[epoch: 4, iter:      3] loss(avg): 2.475	 train_acc(avg): 8.008%
+[epoch: 4, iter:      5] loss(avg): 2.473	 train_acc(avg): 10.286%
+[epoch: 4, iter:      7] loss(avg): 2.469	 train_acc(avg): 10.723%
+###VALIDATION###
+[epoch: 4, iter:      0] val_loss(avg): 2.478	 val_acc(avg): 10.156%
+[epoch: 4, iter:      2] val_loss(avg): 2.470	 val_acc(avg): 10.417%
+[epoch: 4, iter:      4] val_loss(avg): 2.469	 val_acc(avg): 10.625%
+[epoch: 4, iter:      6] val_loss(avg): 2.466	 val_acc(avg): 11.384%
+[epoch: 4, iter:      8] val_loss(avg): 2.467	 val_acc(avg): 11.198%
+[epoch: 4, iter:     10] val_loss(avg): 2.459	 val_acc(avg): 12.713%
+TRAIN
+[epoch: 5, iter:      1] loss(avg): 2.465	 train_acc(avg): 8.594%
+[epoch: 5, iter:      3] loss(avg): 2.461	 train_acc(avg): 9.961%
+[epoch: 5, iter:      5] loss(avg): 2.454	 train_acc(avg): 11.458%
+[epoch: 5, iter:      7] loss(avg): 2.451	 train_acc(avg): 12.441%
+###VALIDATION###
+[epoch: 5, iter:      0] val_loss(avg): 2.463	 val_acc(avg): 11.719%
+[epoch: 5, iter:      2] val_loss(avg): 2.453	 val_acc(avg): 13.281%
+[epoch: 5, iter:      4] val_loss(avg): 2.451	 val_acc(avg): 13.281%
+[epoch: 5, iter:      6] val_loss(avg): 2.447	 val_acc(avg): 13.839%
+[epoch: 5, iter:      8] val_loss(avg): 2.449	 val_acc(avg): 13.715%
+[epoch: 5, iter:     10] val_loss(avg): 2.435	 val_acc(avg): 15.767%
+TRAIN
+[epoch: 6, iter:      1] loss(avg): 2.429	 train_acc(avg): 12.500%
+[epoch: 6, iter:      3] loss(avg): 2.431	 train_acc(avg): 11.328%
+[epoch: 6, iter:      5] loss(avg): 2.431	 train_acc(avg): 11.719%
+[epoch: 6, iter:      7] loss(avg): 2.428	 train_acc(avg): 12.656%
+###VALIDATION###
+[epoch: 6, iter:      0] val_loss(avg): 2.457	 val_acc(avg): 14.062%
+[epoch: 6, iter:      2] val_loss(avg): 2.433	 val_acc(avg): 15.625%
+[epoch: 6, iter:      4] val_loss(avg): 2.430	 val_acc(avg): 15.469%
+[epoch: 6, iter:      6] val_loss(avg): 2.424	 val_acc(avg): 16.295%
+[epoch: 6, iter:      8] val_loss(avg): 2.426	 val_acc(avg): 15.885%
+[epoch: 6, iter:     10] val_loss(avg): 2.403	 val_acc(avg): 15.980%
+TRAIN
+[epoch: 7, iter:      1] loss(avg): 2.414	 train_acc(avg): 18.359%
+[epoch: 7, iter:      3] loss(avg): 2.403	 train_acc(avg): 16.797%
+[epoch: 7, iter:      5] loss(avg): 2.402	 train_acc(avg): 15.365%
+[epoch: 7, iter:      7] loss(avg): 2.394	 train_acc(avg): 15.059%
+###VALIDATION###
+[epoch: 7, iter:      0] val_loss(avg): 2.432	 val_acc(avg): 10.156%
+[epoch: 7, iter:      2] val_loss(avg): 2.400	 val_acc(avg): 12.760%
+[epoch: 7, iter:      4] val_loss(avg): 2.395	 val_acc(avg): 13.438%
+[epoch: 7, iter:      6] val_loss(avg): 2.387	 val_acc(avg): 13.728%
+[epoch: 7, iter:      8] val_loss(avg): 2.391	 val_acc(avg): 13.542%
+[epoch: 7, iter:     10] val_loss(avg): 2.356	 val_acc(avg): 15.270%
+TRAIN
+[epoch: 8, iter:      1] loss(avg): 2.353	 train_acc(avg): 18.359%
+[epoch: 8, iter:      3] loss(avg): 2.378	 train_acc(avg): 17.773%
+[epoch: 8, iter:      5] loss(avg): 2.373	 train_acc(avg): 17.839%
+[epoch: 8, iter:      7] loss(avg): 2.355	 train_acc(avg): 19.141%
+###VALIDATION###
+[epoch: 8, iter:      0] val_loss(avg): 2.390	 val_acc(avg): 14.062%
+[epoch: 8, iter:      2] val_loss(avg): 2.359	 val_acc(avg): 14.583%
+[epoch: 8, iter:      4] val_loss(avg): 2.352	 val_acc(avg): 14.531%
+[epoch: 8, iter:      6] val_loss(avg): 2.346	 val_acc(avg): 15.067%
+[epoch: 8, iter:      8] val_loss(avg): 2.352	 val_acc(avg): 14.757%
+[epoch: 8, iter:     10] val_loss(avg): 2.312	 val_acc(avg): 19.034%
+TRAIN
+[epoch: 9, iter:      1] loss(avg): 2.321	 train_acc(avg): 19.922%
+[epoch: 9, iter:      3] loss(avg): 2.330	 train_acc(avg): 20.117%
+[epoch: 9, iter:      5] loss(avg): 2.323	 train_acc(avg): 20.833%
+[epoch: 9, iter:      7] loss(avg): 2.311	 train_acc(avg): 21.055%
+###VALIDATION###
+[epoch: 9, iter:      0] val_loss(avg): 2.328	 val_acc(avg): 20.312%
+[epoch: 9, iter:      2] val_loss(avg): 2.300	 val_acc(avg): 19.271%
+[epoch: 9, iter:      4] val_loss(avg): 2.294	 val_acc(avg): 18.281%
+[epoch: 9, iter:      6] val_loss(avg): 2.287	 val_acc(avg): 18.750%
+[epoch: 9, iter:      8] val_loss(avg): 2.294	 val_acc(avg): 18.403%
+[epoch: 9, iter:     10] val_loss(avg): 2.258	 val_acc(avg): 19.034%
+TRAIN
+[epoch: 10, iter:      1] loss(avg): 2.221	 train_acc(avg): 25.391%
+[epoch: 10, iter:      3] loss(avg): 2.224	 train_acc(avg): 25.195%
+[epoch: 10, iter:      5] loss(avg): 2.207	 train_acc(avg): 25.911%
+[epoch: 10, iter:      7] loss(avg): 2.199	 train_acc(avg): 26.016%
+###VALIDATION###
+[epoch: 10, iter:      0] val_loss(avg): 2.235	 val_acc(avg): 21.094%
+[epoch: 10, iter:      2] val_loss(avg): 2.189	 val_acc(avg): 23.958%
+[epoch: 10, iter:      4] val_loss(avg): 2.175	 val_acc(avg): 24.062%
+[epoch: 10, iter:      6] val_loss(avg): 2.170	 val_acc(avg): 24.442%
+[epoch: 10, iter:      8] val_loss(avg): 2.182	 val_acc(avg): 23.872%
+[epoch: 10, iter:     10] val_loss(avg): 2.123	 val_acc(avg): 27.060%
+TRAIN
+[epoch: 11, iter:      1] loss(avg): 2.118	 train_acc(avg): 29.688%
+[epoch: 11, iter:      3] loss(avg): 2.125	 train_acc(avg): 28.711%
+[epoch: 11, iter:      5] loss(avg): 2.102	 train_acc(avg): 28.255%
+[epoch: 11, iter:      7] loss(avg): 2.087	 train_acc(avg): 29.238%
+###VALIDATION###
+[epoch: 11, iter:      0] val_loss(avg): 2.073	 val_acc(avg): 33.594%
+[epoch: 11, iter:      2] val_loss(avg): 2.051	 val_acc(avg): 34.635%
+[epoch: 11, iter:      4] val_loss(avg): 2.029	 val_acc(avg): 36.250%
+[epoch: 11, iter:      6] val_loss(avg): 2.028	 val_acc(avg): 36.049%
+[epoch: 11, iter:      8] val_loss(avg): 2.040	 val_acc(avg): 36.024%
+[epoch: 11, iter:     10] val_loss(avg): 1.995	 val_acc(avg): 39.134%
+TRAIN
+[epoch: 12, iter:      1] loss(avg): 1.982	 train_acc(avg): 33.594%
+[epoch: 12, iter:      3] loss(avg): 1.963	 train_acc(avg): 36.133%
+[epoch: 12, iter:      5] loss(avg): 1.959	 train_acc(avg): 35.417%
+[epoch: 12, iter:      7] loss(avg): 1.960	 train_acc(avg): 34.277%
+###VALIDATION###
+[epoch: 12, iter:      0] val_loss(avg): 2.013	 val_acc(avg): 32.812%
+[epoch: 12, iter:      2] val_loss(avg): 1.958	 val_acc(avg): 35.677%
+[epoch: 12, iter:      4] val_loss(avg): 1.928	 val_acc(avg): 37.656%
+[epoch: 12, iter:      6] val_loss(avg): 1.925	 val_acc(avg): 37.835%
+[epoch: 12, iter:      8] val_loss(avg): 1.940	 val_acc(avg): 37.500%
+[epoch: 12, iter:     10] val_loss(avg): 1.881	 val_acc(avg): 40.909%
+TRAIN
+[epoch: 13, iter:      1] loss(avg): 1.828	 train_acc(avg): 37.109%
+[epoch: 13, iter:      3] loss(avg): 1.848	 train_acc(avg): 35.547%
+[epoch: 13, iter:      5] loss(avg): 1.864	 train_acc(avg): 35.026%
+[epoch: 13, iter:      7] loss(avg): 1.834	 train_acc(avg): 37.988%
+###VALIDATION###
+[epoch: 13, iter:      0] val_loss(avg): 1.906	 val_acc(avg): 32.812%
+[epoch: 13, iter:      2] val_loss(avg): 1.845	 val_acc(avg): 34.115%
+[epoch: 13, iter:      4] val_loss(avg): 1.812	 val_acc(avg): 35.938%
+[epoch: 13, iter:      6] val_loss(avg): 1.811	 val_acc(avg): 35.714%
+[epoch: 13, iter:      8] val_loss(avg): 1.822	 val_acc(avg): 35.503%
+[epoch: 13, iter:     10] val_loss(avg): 1.769	 val_acc(avg): 38.707%
+TRAIN
+[epoch: 14, iter:      1] loss(avg): 1.734	 train_acc(avg): 41.797%
+[epoch: 14, iter:      3] loss(avg): 1.792	 train_acc(avg): 39.453%
+[epoch: 14, iter:      5] loss(avg): 1.748	 train_acc(avg): 40.104%
+[epoch: 14, iter:      7] loss(avg): 1.752	 train_acc(avg): 39.824%
+###VALIDATION###
+[epoch: 14, iter:      0] val_loss(avg): 1.882	 val_acc(avg): 34.375%
+[epoch: 14, iter:      2] val_loss(avg): 1.810	 val_acc(avg): 40.365%
+[epoch: 14, iter:      4] val_loss(avg): 1.759	 val_acc(avg): 43.438%
+[epoch: 14, iter:      6] val_loss(avg): 1.763	 val_acc(avg): 43.080%
+[epoch: 14, iter:      8] val_loss(avg): 1.779	 val_acc(avg): 42.622%
+[epoch: 14, iter:     10] val_loss(avg): 1.716	 val_acc(avg): 45.526%
+TRAIN
+[epoch: 15, iter:      1] loss(avg): 1.723	 train_acc(avg): 42.188%
+[epoch: 15, iter:      3] loss(avg): 1.692	 train_acc(avg): 43.555%
+[epoch: 15, iter:      5] loss(avg): 1.708	 train_acc(avg): 43.359%
+[epoch: 15, iter:      7] loss(avg): 1.645	 train_acc(avg): 45.742%
+###VALIDATION###
+[epoch: 15, iter:      0] val_loss(avg): 1.809	 val_acc(avg): 32.812%
+[epoch: 15, iter:      2] val_loss(avg): 1.710	 val_acc(avg): 39.062%
+[epoch: 15, iter:      4] val_loss(avg): 1.661	 val_acc(avg): 41.875%
+[epoch: 15, iter:      6] val_loss(avg): 1.664	 val_acc(avg): 41.741%
+[epoch: 15, iter:      8] val_loss(avg): 1.683	 val_acc(avg): 41.146%
+[epoch: 15, iter:     10] val_loss(avg): 1.618	 val_acc(avg): 44.744%
+TRAIN
+[epoch: 16, iter:      1] loss(avg): 1.659	 train_acc(avg): 39.844%
+[epoch: 16, iter:      3] loss(avg): 1.637	 train_acc(avg): 42.188%
+[epoch: 16, iter:      5] loss(avg): 1.612	 train_acc(avg): 42.318%
+[epoch: 16, iter:      7] loss(avg): 1.570	 train_acc(avg): 43.457%
+###VALIDATION###
+[epoch: 16, iter:      0] val_loss(avg): 1.913	 val_acc(avg): 33.594%
+[epoch: 16, iter:      2] val_loss(avg): 1.783	 val_acc(avg): 38.802%
+[epoch: 16, iter:      4] val_loss(avg): 1.718	 val_acc(avg): 42.031%
+[epoch: 16, iter:      6] val_loss(avg): 1.718	 val_acc(avg): 41.964%
+[epoch: 16, iter:      8] val_loss(avg): 1.745	 val_acc(avg): 41.233%
+[epoch: 16, iter:     10] val_loss(avg): 1.652	 val_acc(avg): 44.744%
+TRAIN
+[epoch: 17, iter:      1] loss(avg): 1.410	 train_acc(avg): 51.172%
+[epoch: 17, iter:      3] loss(avg): 1.430	 train_acc(avg): 49.805%
+[epoch: 17, iter:      5] loss(avg): 1.514	 train_acc(avg): 46.615%
+[epoch: 17, iter:      7] loss(avg): 1.489	 train_acc(avg): 49.199%
+###VALIDATION###
+[epoch: 17, iter:      0] val_loss(avg): 1.784	 val_acc(avg): 34.375%
+[epoch: 17, iter:      2] val_loss(avg): 1.631	 val_acc(avg): 39.844%
+[epoch: 17, iter:      4] val_loss(avg): 1.571	 val_acc(avg): 42.031%
+[epoch: 17, iter:      6] val_loss(avg): 1.569	 val_acc(avg): 42.299%
+[epoch: 17, iter:      8] val_loss(avg): 1.594	 val_acc(avg): 41.406%
+[epoch: 17, iter:     10] val_loss(avg): 1.516	 val_acc(avg): 44.247%
+TRAIN
+[epoch: 18, iter:      1] loss(avg): 1.416	 train_acc(avg): 50.391%
+[epoch: 18, iter:      3] loss(avg): 1.505	 train_acc(avg): 48.633%
+[epoch: 18, iter:      5] loss(avg): 1.529	 train_acc(avg): 47.005%
+[epoch: 18, iter:      7] loss(avg): 1.482	 train_acc(avg): 48.789%
+###VALIDATION###
+[epoch: 18, iter:      0] val_loss(avg): 1.792	 val_acc(avg): 35.156%
+[epoch: 18, iter:      2] val_loss(avg): 1.638	 val_acc(avg): 39.583%
+[epoch: 18, iter:      4] val_loss(avg): 1.575	 val_acc(avg): 41.719%
+[epoch: 18, iter:      6] val_loss(avg): 1.572	 val_acc(avg): 41.629%
+[epoch: 18, iter:      8] val_loss(avg): 1.594	 val_acc(avg): 40.885%
+[epoch: 18, iter:     10] val_loss(avg): 1.518	 val_acc(avg): 43.324%
+TRAIN
+[epoch: 19, iter:      1] loss(avg): 1.430	 train_acc(avg): 46.875%
+[epoch: 19, iter:      3] loss(avg): 1.445	 train_acc(avg): 49.023%
+[epoch: 19, iter:      5] loss(avg): 1.414	 train_acc(avg): 51.432%
+[epoch: 19, iter:      7] loss(avg): 1.398	 train_acc(avg): 51.328%
+###VALIDATION###
+[epoch: 19, iter:      0] val_loss(avg): 1.766	 val_acc(avg): 35.938%
+[epoch: 19, iter:      2] val_loss(avg): 1.591	 val_acc(avg): 44.010%
+[epoch: 19, iter:      4] val_loss(avg): 1.520	 val_acc(avg): 46.719%
+[epoch: 19, iter:      6] val_loss(avg): 1.517	 val_acc(avg): 46.540%
+[epoch: 19, iter:      8] val_loss(avg): 1.543	 val_acc(avg): 45.833%
+[epoch: 19, iter:     10] val_loss(avg): 1.465	 val_acc(avg): 48.011%
+TRAIN
+[epoch: 20, iter:      1] loss(avg): 1.253	 train_acc(avg): 54.688%
+[epoch: 20, iter:      3] loss(avg): 1.271	 train_acc(avg): 54.297%
+[epoch: 20, iter:      5] loss(avg): 1.301	 train_acc(avg): 52.995%
+[epoch: 20, iter:      7] loss(avg): 1.309	 train_acc(avg): 51.738%
+###VALIDATION###
+[epoch: 20, iter:      0] val_loss(avg): 1.748	 val_acc(avg): 33.594%
+[epoch: 20, iter:      2] val_loss(avg): 1.596	 val_acc(avg): 41.406%
+[epoch: 20, iter:      4] val_loss(avg): 1.529	 val_acc(avg): 43.906%
+[epoch: 20, iter:      6] val_loss(avg): 1.530	 val_acc(avg): 43.527%
+[epoch: 20, iter:      8] val_loss(avg): 1.553	 val_acc(avg): 42.882%
+[epoch: 20, iter:     10] val_loss(avg): 1.468	 val_acc(avg): 45.455%
+TRAIN
+[epoch: 21, iter:      1] loss(avg): 1.280	 train_acc(avg): 54.297%
+[epoch: 21, iter:      3] loss(avg): 1.322	 train_acc(avg): 53.711%
+[epoch: 21, iter:      5] loss(avg): 1.284	 train_acc(avg): 55.729%
+[epoch: 21, iter:      7] loss(avg): 1.276	 train_acc(avg): 56.992%
+###VALIDATION###
+[epoch: 21, iter:      0] val_loss(avg): 1.676	 val_acc(avg): 36.719%
+[epoch: 21, iter:      2] val_loss(avg): 1.567	 val_acc(avg): 38.021%
+[epoch: 21, iter:      4] val_loss(avg): 1.529	 val_acc(avg): 38.906%
+[epoch: 21, iter:      6] val_loss(avg): 1.522	 val_acc(avg): 38.728%
+[epoch: 21, iter:      8] val_loss(avg): 1.552	 val_acc(avg): 38.108%
+[epoch: 21, iter:     10] val_loss(avg): 1.473	 val_acc(avg): 40.767%
+TRAIN
+[epoch: 22, iter:      1] loss(avg): 1.316	 train_acc(avg): 52.344%
+[epoch: 22, iter:      3] loss(avg): 1.270	 train_acc(avg): 55.273%
+[epoch: 22, iter:      5] loss(avg): 1.253	 train_acc(avg): 55.469%
+[epoch: 22, iter:      7] loss(avg): 1.213	 train_acc(avg): 58.242%
+###VALIDATION###
+[epoch: 22, iter:      0] val_loss(avg): 1.773	 val_acc(avg): 41.406%
+[epoch: 22, iter:      2] val_loss(avg): 1.585	 val_acc(avg): 46.615%
+[epoch: 22, iter:      4] val_loss(avg): 1.514	 val_acc(avg): 49.844%
+[epoch: 22, iter:      6] val_loss(avg): 1.511	 val_acc(avg): 49.442%
+[epoch: 22, iter:      8] val_loss(avg): 1.538	 val_acc(avg): 48.785%
+[epoch: 22, iter:     10] val_loss(avg): 1.446	 val_acc(avg): 50.071%
+TRAIN
+[epoch: 23, iter:      1] loss(avg): 1.169	 train_acc(avg): 58.594%
+[epoch: 23, iter:      3] loss(avg): 1.184	 train_acc(avg): 58.984%
+[epoch: 23, iter:      5] loss(avg): 1.176	 train_acc(avg): 59.766%
+[epoch: 23, iter:      7] loss(avg): 1.151	 train_acc(avg): 60.391%
+###VALIDATION###
+[epoch: 23, iter:      0] val_loss(avg): 1.765	 val_acc(avg): 41.406%
+[epoch: 23, iter:      2] val_loss(avg): 1.555	 val_acc(avg): 47.396%
+[epoch: 23, iter:      4] val_loss(avg): 1.490	 val_acc(avg): 48.750%
+[epoch: 23, iter:      6] val_loss(avg): 1.480	 val_acc(avg): 48.884%
+[epoch: 23, iter:      8] val_loss(avg): 1.509	 val_acc(avg): 47.830%
+[epoch: 23, iter:     10] val_loss(avg): 1.420	 val_acc(avg): 49.716%
+TRAIN
+[epoch: 24, iter:      1] loss(avg): 1.163	 train_acc(avg): 57.812%
+[epoch: 24, iter:      3] loss(avg): 1.134	 train_acc(avg): 59.375%
+[epoch: 24, iter:      5] loss(avg): 1.150	 train_acc(avg): 57.943%
+[epoch: 24, iter:      7] loss(avg): 1.126	 train_acc(avg): 60.039%
+###VALIDATION###
+[epoch: 24, iter:      0] val_loss(avg): 1.754	 val_acc(avg): 45.312%
+[epoch: 24, iter:      2] val_loss(avg): 1.546	 val_acc(avg): 51.823%
+[epoch: 24, iter:      4] val_loss(avg): 1.481	 val_acc(avg): 53.906%
+[epoch: 24, iter:      6] val_loss(avg): 1.474	 val_acc(avg): 53.906%
+[epoch: 24, iter:      8] val_loss(avg): 1.511	 val_acc(avg): 52.778%
+[epoch: 24, iter:     10] val_loss(avg): 1.424	 val_acc(avg): 53.906%
+TRAIN
+[epoch: 25, iter:      1] loss(avg): 1.016	 train_acc(avg): 64.453%
+[epoch: 25, iter:      3] loss(avg): 1.049	 train_acc(avg): 62.109%
+[epoch: 25, iter:      5] loss(avg): 1.150	 train_acc(avg): 58.594%
+[epoch: 25, iter:      7] loss(avg): 1.116	 train_acc(avg): 60.273%
+###VALIDATION###
+[epoch: 25, iter:      0] val_loss(avg): 1.575	 val_acc(avg): 42.188%
+[epoch: 25, iter:      2] val_loss(avg): 1.498	 val_acc(avg): 45.312%
+[epoch: 25, iter:      4] val_loss(avg): 1.454	 val_acc(avg): 46.406%
+[epoch: 25, iter:      6] val_loss(avg): 1.452	 val_acc(avg): 46.094%
+[epoch: 25, iter:      8] val_loss(avg): 1.477	 val_acc(avg): 45.486%
+[epoch: 25, iter:     10] val_loss(avg): 1.401	 val_acc(avg): 47.585%
+TRAIN
+[epoch: 26, iter:      1] loss(avg): 1.173	 train_acc(avg): 58.594%
+[epoch: 26, iter:      3] loss(avg): 1.081	 train_acc(avg): 62.305%
+[epoch: 26, iter:      5] loss(avg): 1.074	 train_acc(avg): 61.849%
+[epoch: 26, iter:      7] loss(avg): 1.072	 train_acc(avg): 62.949%
+###VALIDATION###
+[epoch: 26, iter:      0] val_loss(avg): 1.647	 val_acc(avg): 46.875%
+[epoch: 26, iter:      2] val_loss(avg): 1.484	 val_acc(avg): 50.781%
+[epoch: 26, iter:      4] val_loss(avg): 1.438	 val_acc(avg): 52.500%
+[epoch: 26, iter:      6] val_loss(avg): 1.428	 val_acc(avg): 52.344%
+[epoch: 26, iter:      8] val_loss(avg): 1.466	 val_acc(avg): 51.476%
+[epoch: 26, iter:     10] val_loss(avg): 1.374	 val_acc(avg): 53.622%
+TRAIN
+[epoch: 27, iter:      1] loss(avg): 1.006	 train_acc(avg): 62.500%
+[epoch: 27, iter:      3] loss(avg): 1.006	 train_acc(avg): 63.477%
+[epoch: 27, iter:      5] loss(avg): 0.988	 train_acc(avg): 64.062%
+[epoch: 27, iter:      7] loss(avg): 0.990	 train_acc(avg): 64.316%
+###VALIDATION###
+[epoch: 27, iter:      0] val_loss(avg): 1.989	 val_acc(avg): 39.844%
+[epoch: 27, iter:      2] val_loss(avg): 1.979	 val_acc(avg): 41.146%
+[epoch: 27, iter:      4] val_loss(avg): 1.972	 val_acc(avg): 40.312%
+[epoch: 27, iter:      6] val_loss(avg): 1.950	 val_acc(avg): 40.513%
+[epoch: 27, iter:      8] val_loss(avg): 1.993	 val_acc(avg): 39.497%
+[epoch: 27, iter:     10] val_loss(avg): 1.897	 val_acc(avg): 42.045%
+TRAIN
+[epoch: 28, iter:      1] loss(avg): 1.753	 train_acc(avg): 48.828%
+[epoch: 28, iter:      3] loss(avg): 1.505	 train_acc(avg): 50.195%
+[epoch: 28, iter:      5] loss(avg): 1.336	 train_acc(avg): 56.250%
+[epoch: 28, iter:      7] loss(avg): 1.298	 train_acc(avg): 57.520%
+###VALIDATION###
+[epoch: 28, iter:      0] val_loss(avg): 1.656	 val_acc(avg): 45.312%
+[epoch: 28, iter:      2] val_loss(avg): 1.441	 val_acc(avg): 50.781%
+[epoch: 28, iter:      4] val_loss(avg): 1.367	 val_acc(avg): 53.281%
+[epoch: 28, iter:      6] val_loss(avg): 1.359	 val_acc(avg): 53.348%
+[epoch: 28, iter:      8] val_loss(avg): 1.403	 val_acc(avg): 52.431%
+[epoch: 28, iter:     10] val_loss(avg): 1.304	 val_acc(avg): 54.474%
+TRAIN
+[epoch: 29, iter:      1] loss(avg): 1.092	 train_acc(avg): 61.719%
+[epoch: 29, iter:      3] loss(avg): 0.999	 train_acc(avg): 65.625%
+[epoch: 29, iter:      5] loss(avg): 0.985	 train_acc(avg): 66.276%
+[epoch: 29, iter:      7] loss(avg): 1.029	 train_acc(avg): 64.023%
+###VALIDATION###
+[epoch: 29, iter:      0] val_loss(avg): 1.667	 val_acc(avg): 46.094%
+[epoch: 29, iter:      2] val_loss(avg): 1.449	 val_acc(avg): 51.823%
+[epoch: 29, iter:      4] val_loss(avg): 1.385	 val_acc(avg): 54.062%
+[epoch: 29, iter:      6] val_loss(avg): 1.374	 val_acc(avg): 54.464%
+[epoch: 29, iter:      8] val_loss(avg): 1.418	 val_acc(avg): 53.646%
+[epoch: 29, iter:     10] val_loss(avg): 1.322	 val_acc(avg): 55.824%
+TRAIN
+[epoch: 30, iter:      1] loss(avg): 0.922	 train_acc(avg): 69.141%
+[epoch: 30, iter:      3] loss(avg): 0.971	 train_acc(avg): 68.164%
+[epoch: 30, iter:      5] loss(avg): 0.957	 train_acc(avg): 67.318%
+[epoch: 30, iter:      7] loss(avg): 0.961	 train_acc(avg): 67.305%
+###VALIDATION###
+[epoch: 30, iter:      0] val_loss(avg): 1.627	 val_acc(avg): 44.531%
+[epoch: 30, iter:      2] val_loss(avg): 1.428	 val_acc(avg): 50.781%
+[epoch: 30, iter:      4] val_loss(avg): 1.362	 val_acc(avg): 53.594%
+[epoch: 30, iter:      6] val_loss(avg): 1.356	 val_acc(avg): 53.571%
+[epoch: 30, iter:      8] val_loss(avg): 1.386	 val_acc(avg): 52.257%
+[epoch: 30, iter:     10] val_loss(avg): 1.296	 val_acc(avg): 53.480%
+TRAIN
+[epoch: 31, iter:      1] loss(avg): 1.006	 train_acc(avg): 60.938%
+[epoch: 31, iter:      3] loss(avg): 0.970	 train_acc(avg): 63.477%
+[epoch: 31, iter:      5] loss(avg): 0.967	 train_acc(avg): 64.453%
+[epoch: 31, iter:      7] loss(avg): 0.910	 train_acc(avg): 67.852%
+###VALIDATION###
+[epoch: 31, iter:      0] val_loss(avg): 1.577	 val_acc(avg): 46.094%
+[epoch: 31, iter:      2] val_loss(avg): 1.376	 val_acc(avg): 51.823%
+[epoch: 31, iter:      4] val_loss(avg): 1.308	 val_acc(avg): 54.375%
+[epoch: 31, iter:      6] val_loss(avg): 1.303	 val_acc(avg): 54.241%
+[epoch: 31, iter:      8] val_loss(avg): 1.338	 val_acc(avg): 53.212%
+[epoch: 31, iter:     10] val_loss(avg): 1.250	 val_acc(avg): 54.830%
+TRAIN
+[epoch: 32, iter:      1] loss(avg): 0.873	 train_acc(avg): 69.141%
+[epoch: 32, iter:      3] loss(avg): 0.822	 train_acc(avg): 71.094%
+[epoch: 32, iter:      5] loss(avg): 0.854	 train_acc(avg): 70.052%
+[epoch: 32, iter:      7] loss(avg): 0.894	 train_acc(avg): 68.672%
+###VALIDATION###
+[epoch: 32, iter:      0] val_loss(avg): 1.656	 val_acc(avg): 46.875%
+[epoch: 32, iter:      2] val_loss(avg): 1.431	 val_acc(avg): 52.865%
+[epoch: 32, iter:      4] val_loss(avg): 1.356	 val_acc(avg): 54.844%
+[epoch: 32, iter:      6] val_loss(avg): 1.348	 val_acc(avg): 54.688%
+[epoch: 32, iter:      8] val_loss(avg): 1.394	 val_acc(avg): 53.646%
+[epoch: 32, iter:     10] val_loss(avg): 1.296	 val_acc(avg): 55.256%
+TRAIN
+[epoch: 33, iter:      1] loss(avg): 0.881	 train_acc(avg): 66.406%
+[epoch: 33, iter:      3] loss(avg): 0.836	 train_acc(avg): 69.727%
+[epoch: 33, iter:      5] loss(avg): 0.843	 train_acc(avg): 68.880%
+[epoch: 33, iter:      7] loss(avg): 0.806	 train_acc(avg): 70.742%
+###VALIDATION###
+[epoch: 33, iter:      0] val_loss(avg): 1.806	 val_acc(avg): 48.438%
+[epoch: 33, iter:      2] val_loss(avg): 1.564	 val_acc(avg): 53.906%
+[epoch: 33, iter:      4] val_loss(avg): 1.477	 val_acc(avg): 56.406%
+[epoch: 33, iter:      6] val_loss(avg): 1.483	 val_acc(avg): 55.692%
+[epoch: 33, iter:      8] val_loss(avg): 1.524	 val_acc(avg): 55.122%
+[epoch: 33, iter:     10] val_loss(avg): 1.403	 val_acc(avg): 56.037%
+TRAIN
+[epoch: 34, iter:      1] loss(avg): 0.916	 train_acc(avg): 69.531%
+[epoch: 34, iter:      3] loss(avg): 0.883	 train_acc(avg): 67.773%
+[epoch: 34, iter:      5] loss(avg): 0.858	 train_acc(avg): 68.880%
+[epoch: 34, iter:      7] loss(avg): 0.843	 train_acc(avg): 70.234%
+###VALIDATION###
+[epoch: 34, iter:      0] val_loss(avg): 1.692	 val_acc(avg): 50.781%
+[epoch: 34, iter:      2] val_loss(avg): 1.443	 val_acc(avg): 56.510%
+[epoch: 34, iter:      4] val_loss(avg): 1.365	 val_acc(avg): 59.062%
+[epoch: 34, iter:      6] val_loss(avg): 1.362	 val_acc(avg): 58.817%
+[epoch: 34, iter:      8] val_loss(avg): 1.410	 val_acc(avg): 58.073%
+[epoch: 34, iter:     10] val_loss(avg): 1.299	 val_acc(avg): 59.588%
+TRAIN
+[epoch: 35, iter:      1] loss(avg): 0.835	 train_acc(avg): 67.578%
+[epoch: 35, iter:      3] loss(avg): 0.778	 train_acc(avg): 70.703%
+[epoch: 35, iter:      5] loss(avg): 0.754	 train_acc(avg): 71.484%
+[epoch: 35, iter:      7] loss(avg): 0.766	 train_acc(avg): 70.918%
+###VALIDATION###
+[epoch: 35, iter:      0] val_loss(avg): 1.835	 val_acc(avg): 46.094%
+[epoch: 35, iter:      2] val_loss(avg): 1.535	 val_acc(avg): 53.646%
+[epoch: 35, iter:      4] val_loss(avg): 1.451	 val_acc(avg): 55.937%
+[epoch: 35, iter:      6] val_loss(avg): 1.447	 val_acc(avg): 55.469%
+[epoch: 35, iter:      8] val_loss(avg): 1.489	 val_acc(avg): 54.688%
+[epoch: 35, iter:     10] val_loss(avg): 1.377	 val_acc(avg): 55.611%
+TRAIN
+[epoch: 36, iter:      1] loss(avg): 0.767	 train_acc(avg): 71.484%
+[epoch: 36, iter:      3] loss(avg): 0.785	 train_acc(avg): 70.508%
+[epoch: 36, iter:      5] loss(avg): 0.788	 train_acc(avg): 71.094%
+[epoch: 36, iter:      7] loss(avg): 0.799	 train_acc(avg): 70.547%
+###VALIDATION###
+[epoch: 36, iter:      0] val_loss(avg): 1.909	 val_acc(avg): 41.406%
+[epoch: 36, iter:      2] val_loss(avg): 1.671	 val_acc(avg): 45.833%
+[epoch: 36, iter:      4] val_loss(avg): 1.618	 val_acc(avg): 46.719%
+[epoch: 36, iter:      6] val_loss(avg): 1.596	 val_acc(avg): 46.987%
+[epoch: 36, iter:      8] val_loss(avg): 1.636	 val_acc(avg): 45.920%
+[epoch: 36, iter:     10] val_loss(avg): 1.543	 val_acc(avg): 48.011%
+TRAIN
+[epoch: 37, iter:      1] loss(avg): 0.741	 train_acc(avg): 77.344%
+[epoch: 37, iter:      3] loss(avg): 0.799	 train_acc(avg): 72.266%
+[epoch: 37, iter:      5] loss(avg): 0.757	 train_acc(avg): 73.438%
+[epoch: 37, iter:      7] loss(avg): 0.777	 train_acc(avg): 71.875%
+###VALIDATION###
+[epoch: 37, iter:      0] val_loss(avg): 2.249	 val_acc(avg): 42.188%
+[epoch: 37, iter:      2] val_loss(avg): 1.968	 val_acc(avg): 49.740%
+[epoch: 37, iter:      4] val_loss(avg): 1.950	 val_acc(avg): 51.250%
+[epoch: 37, iter:      6] val_loss(avg): 1.916	 val_acc(avg): 51.339%
+[epoch: 37, iter:      8] val_loss(avg): 1.985	 val_acc(avg): 50.000%
+[epoch: 37, iter:     10] val_loss(avg): 1.856	 val_acc(avg): 51.847%
+TRAIN
+[epoch: 38, iter:      1] loss(avg): 0.802	 train_acc(avg): 73.047%
+[epoch: 38, iter:      3] loss(avg): 0.819	 train_acc(avg): 70.703%
+[epoch: 38, iter:      5] loss(avg): 0.793	 train_acc(avg): 71.875%
+[epoch: 38, iter:      7] loss(avg): 0.757	 train_acc(avg): 73.105%
+###VALIDATION###
+[epoch: 38, iter:      0] val_loss(avg): 1.743	 val_acc(avg): 49.219%
+[epoch: 38, iter:      2] val_loss(avg): 1.475	 val_acc(avg): 57.552%
+[epoch: 38, iter:      4] val_loss(avg): 1.390	 val_acc(avg): 60.469%
+[epoch: 38, iter:      6] val_loss(avg): 1.384	 val_acc(avg): 59.933%
+[epoch: 38, iter:      8] val_loss(avg): 1.437	 val_acc(avg): 58.767%
+[epoch: 38, iter:     10] val_loss(avg): 1.319	 val_acc(avg): 60.866%
+TRAIN
+[epoch: 39, iter:      1] loss(avg): 0.652	 train_acc(avg): 76.172%
+[epoch: 39, iter:      3] loss(avg): 0.679	 train_acc(avg): 76.758%
+[epoch: 39, iter:      5] loss(avg): 0.666	 train_acc(avg): 77.474%
+[epoch: 39, iter:      7] loss(avg): 0.646	 train_acc(avg): 78.652%
+###VALIDATION###
+[epoch: 39, iter:      0] val_loss(avg): 1.815	 val_acc(avg): 53.125%
+[epoch: 39, iter:      2] val_loss(avg): 1.506	 val_acc(avg): 59.896%
+[epoch: 39, iter:      4] val_loss(avg): 1.415	 val_acc(avg): 62.344%
+[epoch: 39, iter:      6] val_loss(avg): 1.408	 val_acc(avg): 62.054%
+[epoch: 39, iter:      8] val_loss(avg): 1.459	 val_acc(avg): 61.198%
+[epoch: 39, iter:     10] val_loss(avg): 1.349	 val_acc(avg): 62.074%
+TRAIN
+[epoch: 40, iter:      1] loss(avg): 0.588	 train_acc(avg): 76.953%
+[epoch: 40, iter:      3] loss(avg): 0.639	 train_acc(avg): 76.367%
+[epoch: 40, iter:      5] loss(avg): 0.672	 train_acc(avg): 75.260%
+[epoch: 40, iter:      7] loss(avg): 0.664	 train_acc(avg): 75.723%
+###VALIDATION###
+[epoch: 40, iter:      0] val_loss(avg): 1.744	 val_acc(avg): 46.875%
+[epoch: 40, iter:      2] val_loss(avg): 1.475	 val_acc(avg): 53.125%
+[epoch: 40, iter:      4] val_loss(avg): 1.407	 val_acc(avg): 55.312%
+[epoch: 40, iter:      6] val_loss(avg): 1.396	 val_acc(avg): 55.022%
+[epoch: 40, iter:      8] val_loss(avg): 1.447	 val_acc(avg): 54.167%
+[epoch: 40, iter:     10] val_loss(avg): 1.363	 val_acc(avg): 55.185%
+TRAIN
+[epoch: 41, iter:      1] loss(avg): 0.680	 train_acc(avg): 73.047%
+[epoch: 41, iter:      3] loss(avg): 0.699	 train_acc(avg): 73.633%
+[epoch: 41, iter:      5] loss(avg): 0.670	 train_acc(avg): 75.521%
+[epoch: 41, iter:      7] loss(avg): 0.665	 train_acc(avg): 75.566%
+###VALIDATION###
+[epoch: 41, iter:      0] val_loss(avg): 1.724	 val_acc(avg): 50.781%
+[epoch: 41, iter:      2] val_loss(avg): 1.534	 val_acc(avg): 55.729%
+[epoch: 41, iter:      4] val_loss(avg): 1.463	 val_acc(avg): 58.281%
+[epoch: 41, iter:      6] val_loss(avg): 1.460	 val_acc(avg): 58.259%
+[epoch: 41, iter:      8] val_loss(avg): 1.502	 val_acc(avg): 57.378%
+[epoch: 41, iter:     10] val_loss(avg): 1.410	 val_acc(avg): 59.659%
+TRAIN
+[epoch: 42, iter:      1] loss(avg): 0.652	 train_acc(avg): 76.172%
+[epoch: 42, iter:      3] loss(avg): 0.671	 train_acc(avg): 74.219%
+[epoch: 42, iter:      5] loss(avg): 0.651	 train_acc(avg): 75.651%
+[epoch: 42, iter:      7] loss(avg): 0.657	 train_acc(avg): 75.469%
+###VALIDATION###
+[epoch: 42, iter:      0] val_loss(avg): 1.729	 val_acc(avg): 48.438%
+[epoch: 42, iter:      2] val_loss(avg): 1.460	 val_acc(avg): 56.250%
+[epoch: 42, iter:      4] val_loss(avg): 1.384	 val_acc(avg): 58.594%
+[epoch: 42, iter:      6] val_loss(avg): 1.382	 val_acc(avg): 58.259%
+[epoch: 42, iter:      8] val_loss(avg): 1.427	 val_acc(avg): 57.378%
+[epoch: 42, iter:     10] val_loss(avg): 1.327	 val_acc(avg): 58.168%
+TRAIN
+[epoch: 43, iter:      1] loss(avg): 0.594	 train_acc(avg): 77.734%
+[epoch: 43, iter:      3] loss(avg): 0.602	 train_acc(avg): 77.148%
+[epoch: 43, iter:      5] loss(avg): 0.614	 train_acc(avg): 76.172%
+[epoch: 43, iter:      7] loss(avg): 0.609	 train_acc(avg): 75.742%
+###VALIDATION###
+[epoch: 43, iter:      0] val_loss(avg): 1.845	 val_acc(avg): 50.000%
+[epoch: 43, iter:      2] val_loss(avg): 1.577	 val_acc(avg): 53.906%
+[epoch: 43, iter:      4] val_loss(avg): 1.534	 val_acc(avg): 54.062%
+[epoch: 43, iter:      6] val_loss(avg): 1.512	 val_acc(avg): 54.353%
+[epoch: 43, iter:      8] val_loss(avg): 1.555	 val_acc(avg): 53.299%
+[epoch: 43, iter:     10] val_loss(avg): 1.484	 val_acc(avg): 53.409%
+TRAIN
+[epoch: 44, iter:      1] loss(avg): 0.602	 train_acc(avg): 78.906%
+[epoch: 44, iter:      3] loss(avg): 0.577	 train_acc(avg): 79.102%
+[epoch: 44, iter:      5] loss(avg): 0.612	 train_acc(avg): 77.604%
+[epoch: 44, iter:      7] loss(avg): 0.602	 train_acc(avg): 77.773%
+###VALIDATION###
+[epoch: 44, iter:      0] val_loss(avg): 1.858	 val_acc(avg): 50.781%
+[epoch: 44, iter:      2] val_loss(avg): 1.606	 val_acc(avg): 57.812%
+[epoch: 44, iter:      4] val_loss(avg): 1.516	 val_acc(avg): 60.156%
+[epoch: 44, iter:      6] val_loss(avg): 1.530	 val_acc(avg): 59.375%
+[epoch: 44, iter:      8] val_loss(avg): 1.576	 val_acc(avg): 58.507%
+[epoch: 44, iter:     10] val_loss(avg): 1.459	 val_acc(avg): 59.446%
+TRAIN
+[epoch: 45, iter:      1] loss(avg): 0.726	 train_acc(avg): 70.312%
+[epoch: 45, iter:      3] loss(avg): 0.624	 train_acc(avg): 74.805%
+[epoch: 45, iter:      5] loss(avg): 0.566	 train_acc(avg): 78.385%
+[epoch: 45, iter:      7] loss(avg): 0.583	 train_acc(avg): 77.402%
+###VALIDATION###
+[epoch: 45, iter:      0] val_loss(avg): 1.888	 val_acc(avg): 46.875%
+[epoch: 45, iter:      2] val_loss(avg): 1.596	 val_acc(avg): 55.208%
+[epoch: 45, iter:      4] val_loss(avg): 1.523	 val_acc(avg): 57.656%
+[epoch: 45, iter:      6] val_loss(avg): 1.510	 val_acc(avg): 57.366%
+[epoch: 45, iter:      8] val_loss(avg): 1.554	 val_acc(avg): 56.858%
+[epoch: 45, iter:     10] val_loss(avg): 1.461	 val_acc(avg): 58.310%
+TRAIN
+[epoch: 46, iter:      1] loss(avg): 0.584	 train_acc(avg): 78.125%
+[epoch: 46, iter:      3] loss(avg): 0.572	 train_acc(avg): 79.492%
+[epoch: 46, iter:      5] loss(avg): 0.582	 train_acc(avg): 79.427%
+[epoch: 46, iter:      7] loss(avg): 0.568	 train_acc(avg): 80.527%
+###VALIDATION###
+[epoch: 46, iter:      0] val_loss(avg): 1.810	 val_acc(avg): 48.438%
+[epoch: 46, iter:      2] val_loss(avg): 1.508	 val_acc(avg): 54.167%
+[epoch: 46, iter:      4] val_loss(avg): 1.452	 val_acc(avg): 55.781%
+[epoch: 46, iter:      6] val_loss(avg): 1.436	 val_acc(avg): 55.692%
+[epoch: 46, iter:      8] val_loss(avg): 1.472	 val_acc(avg): 55.122%
+[epoch: 46, iter:     10] val_loss(avg): 1.398	 val_acc(avg): 56.108%
+TRAIN
+[epoch: 47, iter:      1] loss(avg): 0.538	 train_acc(avg): 81.250%
+[epoch: 47, iter:      3] loss(avg): 0.529	 train_acc(avg): 81.445%
+[epoch: 47, iter:      5] loss(avg): 0.523	 train_acc(avg): 82.031%
+[epoch: 47, iter:      7] loss(avg): 0.532	 train_acc(avg): 80.684%
+###VALIDATION###
+[epoch: 47, iter:      0] val_loss(avg): 1.781	 val_acc(avg): 55.469%
+[epoch: 47, iter:      2] val_loss(avg): 1.494	 val_acc(avg): 60.938%
+[epoch: 47, iter:      4] val_loss(avg): 1.435	 val_acc(avg): 62.344%
+[epoch: 47, iter:      6] val_loss(avg): 1.423	 val_acc(avg): 61.942%
+[epoch: 47, iter:      8] val_loss(avg): 1.478	 val_acc(avg): 61.198%
+[epoch: 47, iter:     10] val_loss(avg): 1.390	 val_acc(avg): 61.577%
+TRAIN
+[epoch: 48, iter:      1] loss(avg): 0.501	 train_acc(avg): 84.766%
+[epoch: 48, iter:      3] loss(avg): 0.534	 train_acc(avg): 82.031%
+[epoch: 48, iter:      5] loss(avg): 0.524	 train_acc(avg): 81.510%
+[epoch: 48, iter:      7] loss(avg): 0.519	 train_acc(avg): 81.836%
+###VALIDATION###
+[epoch: 48, iter:      0] val_loss(avg): 1.754	 val_acc(avg): 51.562%
+[epoch: 48, iter:      2] val_loss(avg): 1.448	 val_acc(avg): 59.635%
+[epoch: 48, iter:      4] val_loss(avg): 1.390	 val_acc(avg): 61.094%
+[epoch: 48, iter:      6] val_loss(avg): 1.372	 val_acc(avg): 60.938%
+[epoch: 48, iter:      8] val_loss(avg): 1.416	 val_acc(avg): 60.156%
+[epoch: 48, iter:     10] val_loss(avg): 1.349	 val_acc(avg): 59.801%
+TRAIN
+[epoch: 49, iter:      1] loss(avg): 0.458	 train_acc(avg): 81.641%
+[epoch: 49, iter:      3] loss(avg): 0.488	 train_acc(avg): 80.664%
+[epoch: 49, iter:      5] loss(avg): 0.485	 train_acc(avg): 81.380%
+[epoch: 49, iter:      7] loss(avg): 0.487	 train_acc(avg): 81.113%
+###VALIDATION###
+[epoch: 49, iter:      0] val_loss(avg): 2.052	 val_acc(avg): 48.438%
+[epoch: 49, iter:      2] val_loss(avg): 1.683	 val_acc(avg): 56.510%
+[epoch: 49, iter:      4] val_loss(avg): 1.612	 val_acc(avg): 57.812%
+[epoch: 49, iter:      6] val_loss(avg): 1.584	 val_acc(avg): 57.924%
+[epoch: 49, iter:      8] val_loss(avg): 1.651	 val_acc(avg): 56.684%
+[epoch: 49, iter:     10] val_loss(avg): 1.553	 val_acc(avg): 57.315%
+TRAIN
+[epoch: 50, iter:      1] loss(avg): 0.692	 train_acc(avg): 78.125%
+[epoch: 50, iter:      3] loss(avg): 0.623	 train_acc(avg): 80.469%
+[epoch: 50, iter:      5] loss(avg): 0.598	 train_acc(avg): 80.859%
+[epoch: 50, iter:      7] loss(avg): 0.607	 train_acc(avg): 79.258%
+###VALIDATION###
+[epoch: 50, iter:      0] val_loss(avg): 1.733	 val_acc(avg): 53.906%
+[epoch: 50, iter:      2] val_loss(avg): 1.483	 val_acc(avg): 59.635%
+[epoch: 50, iter:      4] val_loss(avg): 1.412	 val_acc(avg): 61.562%
+[epoch: 50, iter:      6] val_loss(avg): 1.417	 val_acc(avg): 60.938%
+[epoch: 50, iter:      8] val_loss(avg): 1.458	 val_acc(avg): 60.156%
+[epoch: 50, iter:     10] val_loss(avg): 1.389	 val_acc(avg): 60.227%
+TRAIN
+[epoch: 51, iter:      1] loss(avg): 0.528	 train_acc(avg): 82.031%
+[epoch: 51, iter:      3] loss(avg): 0.517	 train_acc(avg): 81.445%
+[epoch: 51, iter:      5] loss(avg): 0.501	 train_acc(avg): 82.292%
+[epoch: 51, iter:      7] loss(avg): 0.480	 train_acc(avg): 83.008%
+###VALIDATION###
+[epoch: 51, iter:      0] val_loss(avg): 1.992	 val_acc(avg): 46.094%
+[epoch: 51, iter:      2] val_loss(avg): 1.663	 val_acc(avg): 54.427%
+[epoch: 51, iter:      4] val_loss(avg): 1.582	 val_acc(avg): 56.719%
+[epoch: 51, iter:      6] val_loss(avg): 1.568	 val_acc(avg): 56.696%
+[epoch: 51, iter:      8] val_loss(avg): 1.605	 val_acc(avg): 55.990%
+[epoch: 51, iter:     10] val_loss(avg): 1.533	 val_acc(avg): 56.960%
+TRAIN
+[epoch: 52, iter:      1] loss(avg): 0.603	 train_acc(avg): 75.781%
+[epoch: 52, iter:      3] loss(avg): 0.589	 train_acc(avg): 77.344%
+[epoch: 52, iter:      5] loss(avg): 0.535	 train_acc(avg): 80.729%
+[epoch: 52, iter:      7] loss(avg): 0.514	 train_acc(avg): 81.641%
+###VALIDATION###
+[epoch: 52, iter:      0] val_loss(avg): 1.895	 val_acc(avg): 50.000%
+[epoch: 52, iter:      2] val_loss(avg): 1.542	 val_acc(avg): 58.594%
+[epoch: 52, iter:      4] val_loss(avg): 1.462	 val_acc(avg): 60.156%
+[epoch: 52, iter:      6] val_loss(avg): 1.454	 val_acc(avg): 59.821%
+[epoch: 52, iter:      8] val_loss(avg): 1.506	 val_acc(avg): 59.115%
+[epoch: 52, iter:     10] val_loss(avg): 1.410	 val_acc(avg): 59.446%
+TRAIN
+[epoch: 53, iter:      1] loss(avg): 0.397	 train_acc(avg): 88.281%
+[epoch: 53, iter:      3] loss(avg): 0.438	 train_acc(avg): 84.766%
+[epoch: 53, iter:      5] loss(avg): 0.440	 train_acc(avg): 84.635%
+[epoch: 53, iter:      7] loss(avg): 0.456	 train_acc(avg): 83.848%
+###VALIDATION###
+[epoch: 53, iter:      0] val_loss(avg): 1.822	 val_acc(avg): 55.469%
+[epoch: 53, iter:      2] val_loss(avg): 1.568	 val_acc(avg): 60.938%
+[epoch: 53, iter:      4] val_loss(avg): 1.501	 val_acc(avg): 62.813%
+[epoch: 53, iter:      6] val_loss(avg): 1.501	 val_acc(avg): 62.054%
+[epoch: 53, iter:      8] val_loss(avg): 1.553	 val_acc(avg): 61.458%
+[epoch: 53, iter:     10] val_loss(avg): 1.479	 val_acc(avg): 62.003%
+TRAIN
+[epoch: 54, iter:      1] loss(avg): 0.495	 train_acc(avg): 81.250%
+[epoch: 54, iter:      3] loss(avg): 0.481	 train_acc(avg): 83.203%
+[epoch: 54, iter:      5] loss(avg): 0.486	 train_acc(avg): 83.333%
+[epoch: 54, iter:      7] loss(avg): 0.495	 train_acc(avg): 83.379%
+###VALIDATION###
+[epoch: 54, iter:      0] val_loss(avg): 1.823	 val_acc(avg): 53.125%
+[epoch: 54, iter:      2] val_loss(avg): 1.499	 val_acc(avg): 60.417%
+[epoch: 54, iter:      4] val_loss(avg): 1.410	 val_acc(avg): 62.813%
+[epoch: 54, iter:      6] val_loss(avg): 1.405	 val_acc(avg): 62.500%
+[epoch: 54, iter:      8] val_loss(avg): 1.450	 val_acc(avg): 61.806%
+[epoch: 54, iter:     10] val_loss(avg): 1.358	 val_acc(avg): 62.500%
+TRAIN
+[epoch: 55, iter:      1] loss(avg): 0.458	 train_acc(avg): 83.594%
+[epoch: 55, iter:      3] loss(avg): 0.483	 train_acc(avg): 83.594%
+[epoch: 55, iter:      5] loss(avg): 0.443	 train_acc(avg): 85.026%
+[epoch: 55, iter:      7] loss(avg): 0.430	 train_acc(avg): 85.625%
+###VALIDATION###
+[epoch: 55, iter:      0] val_loss(avg): 1.922	 val_acc(avg): 51.562%
+[epoch: 55, iter:      2] val_loss(avg): 1.575	 val_acc(avg): 60.677%
+[epoch: 55, iter:      4] val_loss(avg): 1.492	 val_acc(avg): 62.344%
+[epoch: 55, iter:      6] val_loss(avg): 1.482	 val_acc(avg): 62.054%
+[epoch: 55, iter:      8] val_loss(avg): 1.533	 val_acc(avg): 61.198%
+[epoch: 55, iter:     10] val_loss(avg): 1.438	 val_acc(avg): 62.074%
+TRAIN
+[epoch: 56, iter:      1] loss(avg): 0.461	 train_acc(avg): 83.203%
+[epoch: 56, iter:      3] loss(avg): 0.442	 train_acc(avg): 84.570%
+[epoch: 56, iter:      5] loss(avg): 0.449	 train_acc(avg): 84.635%
+[epoch: 56, iter:      7] loss(avg): 0.460	 train_acc(avg): 83.906%
+###VALIDATION###
+[epoch: 56, iter:      0] val_loss(avg): 1.885	 val_acc(avg): 52.344%
+[epoch: 56, iter:      2] val_loss(avg): 1.551	 val_acc(avg): 60.938%
+[epoch: 56, iter:      4] val_loss(avg): 1.480	 val_acc(avg): 62.813%
+[epoch: 56, iter:      6] val_loss(avg): 1.466	 val_acc(avg): 62.388%
+[epoch: 56, iter:      8] val_loss(avg): 1.517	 val_acc(avg): 61.719%
+[epoch: 56, iter:     10] val_loss(avg): 1.426	 val_acc(avg): 62.500%
+TRAIN
+[epoch: 57, iter:      1] loss(avg): 0.413	 train_acc(avg): 86.719%
+[epoch: 57, iter:      3] loss(avg): 0.428	 train_acc(avg): 86.914%
+[epoch: 57, iter:      5] loss(avg): 0.437	 train_acc(avg): 85.938%
+[epoch: 57, iter:      7] loss(avg): 0.404	 train_acc(avg): 86.543%
+###VALIDATION###
+[epoch: 57, iter:      0] val_loss(avg): 1.812	 val_acc(avg): 52.344%
+[epoch: 57, iter:      2] val_loss(avg): 1.481	 val_acc(avg): 61.979%
+[epoch: 57, iter:      4] val_loss(avg): 1.403	 val_acc(avg): 64.219%
+[epoch: 57, iter:      6] val_loss(avg): 1.398	 val_acc(avg): 63.728%
+[epoch: 57, iter:      8] val_loss(avg): 1.444	 val_acc(avg): 62.934%
+[epoch: 57, iter:     10] val_loss(avg): 1.354	 val_acc(avg): 63.778%
+TRAIN
+[epoch: 58, iter:      1] loss(avg): 0.343	 train_acc(avg): 87.891%
+[epoch: 58, iter:      3] loss(avg): 0.373	 train_acc(avg): 86.914%
+[epoch: 58, iter:      5] loss(avg): 0.373	 train_acc(avg): 87.240%
+[epoch: 58, iter:      7] loss(avg): 0.415	 train_acc(avg): 85.645%
+###VALIDATION###
+[epoch: 58, iter:      0] val_loss(avg): 1.877	 val_acc(avg): 50.000%
+[epoch: 58, iter:      2] val_loss(avg): 1.525	 val_acc(avg): 59.896%
+[epoch: 58, iter:      4] val_loss(avg): 1.441	 val_acc(avg): 62.500%
+[epoch: 58, iter:      6] val_loss(avg): 1.439	 val_acc(avg): 62.277%
+[epoch: 58, iter:      8] val_loss(avg): 1.476	 val_acc(avg): 61.545%
+[epoch: 58, iter:     10] val_loss(avg): 1.384	 val_acc(avg): 63.991%
+TRAIN
+[epoch: 59, iter:      1] loss(avg): 0.361	 train_acc(avg): 84.375%
+[epoch: 59, iter:      3] loss(avg): 0.355	 train_acc(avg): 85.938%
+[epoch: 59, iter:      5] loss(avg): 0.381	 train_acc(avg): 85.156%
+[epoch: 59, iter:      7] loss(avg): 0.424	 train_acc(avg): 84.688%
+###VALIDATION###
+[epoch: 59, iter:      0] val_loss(avg): 1.849	 val_acc(avg): 50.000%
+[epoch: 59, iter:      2] val_loss(avg): 1.511	 val_acc(avg): 58.594%
+[epoch: 59, iter:      4] val_loss(avg): 1.434	 val_acc(avg): 60.781%
+[epoch: 59, iter:      6] val_loss(avg): 1.416	 val_acc(avg): 60.603%
+[epoch: 59, iter:      8] val_loss(avg): 1.453	 val_acc(avg): 59.983%
+[epoch: 59, iter:     10] val_loss(avg): 1.374	 val_acc(avg): 60.795%
+TRAIN
+[epoch: 60, iter:      1] loss(avg): 0.422	 train_acc(avg): 81.250%
+[epoch: 60, iter:      3] loss(avg): 0.390	 train_acc(avg): 85.156%
+[epoch: 60, iter:      5] loss(avg): 0.402	 train_acc(avg): 84.766%
+[epoch: 60, iter:      7] loss(avg): 0.372	 train_acc(avg): 85.762%
+###VALIDATION###
+[epoch: 60, iter:      0] val_loss(avg): 1.970	 val_acc(avg): 47.656%
+[epoch: 60, iter:      2] val_loss(avg): 1.629	 val_acc(avg): 57.812%
+[epoch: 60, iter:      4] val_loss(avg): 1.539	 val_acc(avg): 60.781%
+[epoch: 60, iter:      6] val_loss(avg): 1.524	 val_acc(avg): 60.379%
+[epoch: 60, iter:      8] val_loss(avg): 1.568	 val_acc(avg): 59.549%
+[epoch: 60, iter:     10] val_loss(avg): 1.471	 val_acc(avg): 61.790%
+TRAIN
+[epoch: 61, iter:      1] loss(avg): 0.311	 train_acc(avg): 91.016%
+[epoch: 61, iter:      3] loss(avg): 0.353	 train_acc(avg): 88.086%
+[epoch: 61, iter:      5] loss(avg): 0.351	 train_acc(avg): 87.891%
+[epoch: 61, iter:      7] loss(avg): 0.370	 train_acc(avg): 86.426%
+###VALIDATION###
+[epoch: 61, iter:      0] val_loss(avg): 1.978	 val_acc(avg): 53.125%
+[epoch: 61, iter:      2] val_loss(avg): 1.641	 val_acc(avg): 61.198%
+[epoch: 61, iter:      4] val_loss(avg): 1.547	 val_acc(avg): 63.594%
+[epoch: 61, iter:      6] val_loss(avg): 1.541	 val_acc(avg): 62.946%
+[epoch: 61, iter:      8] val_loss(avg): 1.594	 val_acc(avg): 62.587%
+[epoch: 61, iter:     10] val_loss(avg): 1.486	 val_acc(avg): 63.849%
+TRAIN
+[epoch: 62, iter:      1] loss(avg): 0.389	 train_acc(avg): 85.547%
+[epoch: 62, iter:      3] loss(avg): 0.401	 train_acc(avg): 85.547%
+[epoch: 62, iter:      5] loss(avg): 0.377	 train_acc(avg): 86.458%
+[epoch: 62, iter:      7] loss(avg): 0.366	 train_acc(avg): 87.539%
+###VALIDATION###
+[epoch: 62, iter:      0] val_loss(avg): 2.050	 val_acc(avg): 53.125%
+[epoch: 62, iter:      2] val_loss(avg): 1.684	 val_acc(avg): 59.635%
+[epoch: 62, iter:      4] val_loss(avg): 1.597	 val_acc(avg): 61.875%
+[epoch: 62, iter:      6] val_loss(avg): 1.581	 val_acc(avg): 61.496%
+[epoch: 62, iter:      8] val_loss(avg): 1.634	 val_acc(avg): 60.851%
+[epoch: 62, iter:     10] val_loss(avg): 1.544	 val_acc(avg): 61.648%
+TRAIN
+[epoch: 63, iter:      1] loss(avg): 0.318	 train_acc(avg): 87.500%
+[epoch: 63, iter:      3] loss(avg): 0.377	 train_acc(avg): 86.133%
+[epoch: 63, iter:      5] loss(avg): 0.408	 train_acc(avg): 84.896%
+[epoch: 63, iter:      7] loss(avg): 0.389	 train_acc(avg): 85.859%
+###VALIDATION###
+[epoch: 63, iter:      0] val_loss(avg): 1.983	 val_acc(avg): 51.562%
+[epoch: 63, iter:      2] val_loss(avg): 1.623	 val_acc(avg): 59.635%
+[epoch: 63, iter:      4] val_loss(avg): 1.552	 val_acc(avg): 61.250%
+[epoch: 63, iter:      6] val_loss(avg): 1.530	 val_acc(avg): 60.938%
+[epoch: 63, iter:      8] val_loss(avg): 1.591	 val_acc(avg): 60.156%
+[epoch: 63, iter:     10] val_loss(avg): 1.506	 val_acc(avg): 61.222%
+TRAIN
+[epoch: 64, iter:      1] loss(avg): 0.284	 train_acc(avg): 89.062%
+[epoch: 64, iter:      3] loss(avg): 0.306	 train_acc(avg): 89.844%
+[epoch: 64, iter:      5] loss(avg): 0.306	 train_acc(avg): 89.583%
+[epoch: 64, iter:      7] loss(avg): 0.303	 train_acc(avg): 89.453%
+###VALIDATION###
+[epoch: 64, iter:      0] val_loss(avg): 2.172	 val_acc(avg): 52.344%
+[epoch: 64, iter:      2] val_loss(avg): 1.785	 val_acc(avg): 59.635%
+[epoch: 64, iter:      4] val_loss(avg): 1.704	 val_acc(avg): 61.406%
+[epoch: 64, iter:      6] val_loss(avg): 1.694	 val_acc(avg): 60.714%
+[epoch: 64, iter:      8] val_loss(avg): 1.752	 val_acc(avg): 60.243%
+[epoch: 64, iter:     10] val_loss(avg): 1.686	 val_acc(avg): 60.724%
+TRAIN
+[epoch: 65, iter:      1] loss(avg): 0.291	 train_acc(avg): 90.625%
+[epoch: 65, iter:      3] loss(avg): 0.307	 train_acc(avg): 89.844%
+[epoch: 65, iter:      5] loss(avg): 0.321	 train_acc(avg): 88.542%
+[epoch: 65, iter:      7] loss(avg): 0.355	 train_acc(avg): 86.738%
+###VALIDATION###
+[epoch: 65, iter:      0] val_loss(avg): 1.959	 val_acc(avg): 54.688%
+[epoch: 65, iter:      2] val_loss(avg): 1.629	 val_acc(avg): 61.979%
+[epoch: 65, iter:      4] val_loss(avg): 1.562	 val_acc(avg): 64.062%
+[epoch: 65, iter:      6] val_loss(avg): 1.550	 val_acc(avg): 63.728%
+[epoch: 65, iter:      8] val_loss(avg): 1.605	 val_acc(avg): 63.021%
+[epoch: 65, iter:     10] val_loss(avg): 1.515	 val_acc(avg): 63.778%
+TRAIN
+[epoch: 66, iter:      1] loss(avg): 0.301	 train_acc(avg): 89.453%
+[epoch: 66, iter:      3] loss(avg): 0.294	 train_acc(avg): 89.648%
+[epoch: 66, iter:      5] loss(avg): 0.311	 train_acc(avg): 88.672%
+[epoch: 66, iter:      7] loss(avg): 0.313	 train_acc(avg): 88.887%
+###VALIDATION###
+[epoch: 66, iter:      0] val_loss(avg): 2.009	 val_acc(avg): 55.469%
+[epoch: 66, iter:      2] val_loss(avg): 1.612	 val_acc(avg): 63.542%
+[epoch: 66, iter:      4] val_loss(avg): 1.535	 val_acc(avg): 64.531%
+[epoch: 66, iter:      6] val_loss(avg): 1.523	 val_acc(avg): 64.397%
+[epoch: 66, iter:      8] val_loss(avg): 1.573	 val_acc(avg): 63.715%
+[epoch: 66, iter:     10] val_loss(avg): 1.484	 val_acc(avg): 64.205%
+TRAIN
+[epoch: 67, iter:      1] loss(avg): 0.339	 train_acc(avg): 87.109%
+[epoch: 67, iter:      3] loss(avg): 0.345	 train_acc(avg): 88.281%
+[epoch: 67, iter:      5] loss(avg): 0.384	 train_acc(avg): 87.109%
+[epoch: 67, iter:      7] loss(avg): 0.378	 train_acc(avg): 87.227%
+###VALIDATION###
+[epoch: 67, iter:      0] val_loss(avg): 2.055	 val_acc(avg): 50.000%
+[epoch: 67, iter:      2] val_loss(avg): 1.653	 val_acc(avg): 57.812%
+[epoch: 67, iter:      4] val_loss(avg): 1.575	 val_acc(avg): 59.844%
+[epoch: 67, iter:      6] val_loss(avg): 1.556	 val_acc(avg): 59.598%
+[epoch: 67, iter:      8] val_loss(avg): 1.609	 val_acc(avg): 59.115%
+[epoch: 67, iter:     10] val_loss(avg): 1.525	 val_acc(avg): 60.440%
+TRAIN
+[epoch: 68, iter:      1] loss(avg): 0.400	 train_acc(avg): 86.719%
+[epoch: 68, iter:      3] loss(avg): 0.369	 train_acc(avg): 86.914%
+[epoch: 68, iter:      5] loss(avg): 0.353	 train_acc(avg): 87.760%
+[epoch: 68, iter:      7] loss(avg): 0.318	 train_acc(avg): 89.102%
+###VALIDATION###
+[epoch: 68, iter:      0] val_loss(avg): 2.133	 val_acc(avg): 53.125%
+[epoch: 68, iter:      2] val_loss(avg): 1.729	 val_acc(avg): 60.156%
+[epoch: 68, iter:      4] val_loss(avg): 1.659	 val_acc(avg): 61.875%
+[epoch: 68, iter:      6] val_loss(avg): 1.650	 val_acc(avg): 61.161%
+[epoch: 68, iter:      8] val_loss(avg): 1.715	 val_acc(avg): 60.590%
+[epoch: 68, iter:     10] val_loss(avg): 1.635	 val_acc(avg): 61.151%
+TRAIN
+[epoch: 69, iter:      1] loss(avg): 0.271	 train_acc(avg): 90.625%
+[epoch: 69, iter:      3] loss(avg): 0.297	 train_acc(avg): 89.844%
+[epoch: 69, iter:      5] loss(avg): 0.310	 train_acc(avg): 89.453%
+[epoch: 69, iter:      7] loss(avg): 0.284	 train_acc(avg): 90.430%
+###VALIDATION###
+[epoch: 69, iter:      0] val_loss(avg): 2.075	 val_acc(avg): 56.250%
+[epoch: 69, iter:      2] val_loss(avg): 1.694	 val_acc(avg): 64.323%
+[epoch: 69, iter:      4] val_loss(avg): 1.616	 val_acc(avg): 66.094%
+[epoch: 69, iter:      6] val_loss(avg): 1.607	 val_acc(avg): 65.625%
+[epoch: 69, iter:      8] val_loss(avg): 1.659	 val_acc(avg): 65.104%
+[epoch: 69, iter:     10] val_loss(avg): 1.577	 val_acc(avg): 64.986%
+TRAIN
+[epoch: 70, iter:      1] loss(avg): 0.257	 train_acc(avg): 92.578%
+[epoch: 70, iter:      3] loss(avg): 0.263	 train_acc(avg): 90.234%
+[epoch: 70, iter:      5] loss(avg): 0.286	 train_acc(avg): 89.453%
+[epoch: 70, iter:      7] loss(avg): 0.281	 train_acc(avg): 89.316%
+###VALIDATION###
+[epoch: 70, iter:      0] val_loss(avg): 2.115	 val_acc(avg): 55.469%
+[epoch: 70, iter:      2] val_loss(avg): 1.726	 val_acc(avg): 61.719%
+[epoch: 70, iter:      4] val_loss(avg): 1.654	 val_acc(avg): 62.813%
+[epoch: 70, iter:      6] val_loss(avg): 1.629	 val_acc(avg): 62.388%
+[epoch: 70, iter:      8] val_loss(avg): 1.688	 val_acc(avg): 61.719%
+[epoch: 70, iter:     10] val_loss(avg): 1.616	 val_acc(avg): 62.003%
+TRAIN
+[epoch: 71, iter:      1] loss(avg): 0.244	 train_acc(avg): 89.453%
+[epoch: 71, iter:      3] loss(avg): 0.233	 train_acc(avg): 90.625%
+[epoch: 71, iter:      5] loss(avg): 0.257	 train_acc(avg): 90.234%
+[epoch: 71, iter:      7] loss(avg): 0.249	 train_acc(avg): 90.977%
+###VALIDATION###
+[epoch: 71, iter:      0] val_loss(avg): 2.206	 val_acc(avg): 53.906%
+[epoch: 71, iter:      2] val_loss(avg): 1.795	 val_acc(avg): 60.938%
+[epoch: 71, iter:      4] val_loss(avg): 1.713	 val_acc(avg): 62.344%
+[epoch: 71, iter:      6] val_loss(avg): 1.689	 val_acc(avg): 62.054%
+[epoch: 71, iter:      8] val_loss(avg): 1.755	 val_acc(avg): 61.198%
+[epoch: 71, iter:     10] val_loss(avg): 1.661	 val_acc(avg): 61.577%
+TRAIN
+[epoch: 72, iter:      1] loss(avg): 0.332	 train_acc(avg): 87.891%
+[epoch: 72, iter:      3] loss(avg): 0.294	 train_acc(avg): 89.844%
+[epoch: 72, iter:      5] loss(avg): 0.296	 train_acc(avg): 90.104%
+[epoch: 72, iter:      7] loss(avg): 0.317	 train_acc(avg): 88.301%
+###VALIDATION###
+[epoch: 72, iter:      0] val_loss(avg): 2.390	 val_acc(avg): 50.000%
+[epoch: 72, iter:      2] val_loss(avg): 1.910	 val_acc(avg): 59.375%
+[epoch: 72, iter:      4] val_loss(avg): 1.797	 val_acc(avg): 61.406%
+[epoch: 72, iter:      6] val_loss(avg): 1.790	 val_acc(avg): 60.938%
+[epoch: 72, iter:      8] val_loss(avg): 1.835	 val_acc(avg): 60.503%
+[epoch: 72, iter:     10] val_loss(avg): 1.739	 val_acc(avg): 61.222%
+TRAIN
+[epoch: 73, iter:      1] loss(avg): 0.321	 train_acc(avg): 87.500%
+[epoch: 73, iter:      3] loss(avg): 0.314	 train_acc(avg): 87.891%
+[epoch: 73, iter:      5] loss(avg): 0.309	 train_acc(avg): 88.021%
+[epoch: 73, iter:      7] loss(avg): 0.313	 train_acc(avg): 88.398%
+###VALIDATION###
+[epoch: 73, iter:      0] val_loss(avg): 2.427	 val_acc(avg): 53.906%
+[epoch: 73, iter:      2] val_loss(avg): 2.038	 val_acc(avg): 60.677%
+[epoch: 73, iter:      4] val_loss(avg): 1.949	 val_acc(avg): 62.813%
+[epoch: 73, iter:      6] val_loss(avg): 1.947	 val_acc(avg): 62.277%
+[epoch: 73, iter:      8] val_loss(avg): 2.003	 val_acc(avg): 61.892%
+[epoch: 73, iter:     10] val_loss(avg): 1.913	 val_acc(avg): 62.003%
+TRAIN
+[epoch: 74, iter:      1] loss(avg): 0.409	 train_acc(avg): 86.719%
+[epoch: 74, iter:      3] loss(avg): 0.327	 train_acc(avg): 89.062%
+[epoch: 74, iter:      5] loss(avg): 0.304	 train_acc(avg): 89.844%
+[epoch: 74, iter:      7] loss(avg): 0.300	 train_acc(avg): 89.863%
+###VALIDATION###
+[epoch: 74, iter:      0] val_loss(avg): 2.582	 val_acc(avg): 50.781%
+[epoch: 74, iter:      2] val_loss(avg): 2.099	 val_acc(avg): 60.417%
+[epoch: 74, iter:      4] val_loss(avg): 1.999	 val_acc(avg): 62.344%
+[epoch: 74, iter:      6] val_loss(avg): 1.984	 val_acc(avg): 61.719%
+[epoch: 74, iter:      8] val_loss(avg): 2.036	 val_acc(avg): 61.111%
+[epoch: 74, iter:     10] val_loss(avg): 1.972	 val_acc(avg): 61.577%
+TRAIN
+[epoch: 75, iter:      1] loss(avg): 0.277	 train_acc(avg): 91.406%
+[epoch: 75, iter:      3] loss(avg): 0.250	 train_acc(avg): 91.602%
+[epoch: 75, iter:      5] loss(avg): 0.264	 train_acc(avg): 91.016%
+[epoch: 75, iter:      7] loss(avg): 0.284	 train_acc(avg): 89.590%
+###VALIDATION###
+[epoch: 75, iter:      0] val_loss(avg): 2.416	 val_acc(avg): 53.906%
+[epoch: 75, iter:      2] val_loss(avg): 2.017	 val_acc(avg): 60.677%
+[epoch: 75, iter:      4] val_loss(avg): 1.921	 val_acc(avg): 62.344%
+[epoch: 75, iter:      6] val_loss(avg): 1.926	 val_acc(avg): 61.607%
+[epoch: 75, iter:      8] val_loss(avg): 1.988	 val_acc(avg): 61.024%
+[epoch: 75, iter:     10] val_loss(avg): 1.916	 val_acc(avg): 61.577%
+TRAIN
+[epoch: 76, iter:      1] loss(avg): 0.275	 train_acc(avg): 91.016%
+[epoch: 76, iter:      3] loss(avg): 0.307	 train_acc(avg): 89.258%
+[epoch: 76, iter:      5] loss(avg): 0.296	 train_acc(avg): 89.453%
+[epoch: 76, iter:      7] loss(avg): 0.284	 train_acc(avg): 89.902%
+###VALIDATION###
+[epoch: 76, iter:      0] val_loss(avg): 2.354	 val_acc(avg): 54.688%
+[epoch: 76, iter:      2] val_loss(avg): 1.882	 val_acc(avg): 63.021%
+[epoch: 76, iter:      4] val_loss(avg): 1.784	 val_acc(avg): 64.688%
+[epoch: 76, iter:      6] val_loss(avg): 1.764	 val_acc(avg): 64.397%
+[epoch: 76, iter:      8] val_loss(avg): 1.836	 val_acc(avg): 63.542%
+[epoch: 76, iter:     10] val_loss(avg): 1.752	 val_acc(avg): 63.707%
+TRAIN
+[epoch: 77, iter:      1] loss(avg): 0.256	 train_acc(avg): 90.234%
+[epoch: 77, iter:      3] loss(avg): 0.250	 train_acc(avg): 89.648%
+[epoch: 77, iter:      5] loss(avg): 0.244	 train_acc(avg): 89.974%
+[epoch: 77, iter:      7] loss(avg): 0.240	 train_acc(avg): 90.273%
+###VALIDATION###
+[epoch: 77, iter:      0] val_loss(avg): 2.305	 val_acc(avg): 52.344%
+[epoch: 77, iter:      2] val_loss(avg): 1.894	 val_acc(avg): 61.458%
+[epoch: 77, iter:      4] val_loss(avg): 1.811	 val_acc(avg): 63.281%
+[epoch: 77, iter:      6] val_loss(avg): 1.799	 val_acc(avg): 62.612%
+[epoch: 77, iter:      8] val_loss(avg): 1.860	 val_acc(avg): 61.979%
+[epoch: 77, iter:     10] val_loss(avg): 1.756	 val_acc(avg): 62.926%
+TRAIN
+[epoch: 78, iter:      1] loss(avg): 0.256	 train_acc(avg): 91.406%
+[epoch: 78, iter:      3] loss(avg): 0.224	 train_acc(avg): 91.797%
+[epoch: 78, iter:      5] loss(avg): 0.224	 train_acc(avg): 92.448%
+[epoch: 78, iter:      7] loss(avg): 0.233	 train_acc(avg): 91.699%
+###VALIDATION###
+[epoch: 78, iter:      0] val_loss(avg): 2.616	 val_acc(avg): 50.000%
+[epoch: 78, iter:      2] val_loss(avg): 2.071	 val_acc(avg): 58.854%
+[epoch: 78, iter:      4] val_loss(avg): 1.964	 val_acc(avg): 60.938%
+[epoch: 78, iter:      6] val_loss(avg): 1.938	 val_acc(avg): 60.379%
+[epoch: 78, iter:      8] val_loss(avg): 1.983	 val_acc(avg): 59.809%
+[epoch: 78, iter:     10] val_loss(avg): 1.876	 val_acc(avg): 60.795%
+TRAIN
+[epoch: 79, iter:      1] loss(avg): 0.283	 train_acc(avg): 89.453%
+[epoch: 79, iter:      3] loss(avg): 0.317	 train_acc(avg): 89.453%
+[epoch: 79, iter:      5] loss(avg): 0.325	 train_acc(avg): 89.453%
+[epoch: 79, iter:      7] loss(avg): 0.309	 train_acc(avg): 89.785%
+###VALIDATION###
+[epoch: 79, iter:      0] val_loss(avg): 2.220	 val_acc(avg): 52.344%
+[epoch: 79, iter:      2] val_loss(avg): 1.861	 val_acc(avg): 61.719%
+[epoch: 79, iter:      4] val_loss(avg): 1.799	 val_acc(avg): 63.438%
+[epoch: 79, iter:      6] val_loss(avg): 1.784	 val_acc(avg): 63.170%
+[epoch: 79, iter:      8] val_loss(avg): 1.834	 val_acc(avg): 62.500%
+[epoch: 79, iter:     10] val_loss(avg): 1.777	 val_acc(avg): 63.849%
+TRAIN
+[epoch: 80, iter:      1] loss(avg): 0.312	 train_acc(avg): 89.062%
+[epoch: 80, iter:      3] loss(avg): 0.299	 train_acc(avg): 89.648%
+[epoch: 80, iter:      5] loss(avg): 0.304	 train_acc(avg): 89.453%
+[epoch: 80, iter:      7] loss(avg): 0.287	 train_acc(avg): 90.078%
+###VALIDATION###
+[epoch: 80, iter:      0] val_loss(avg): 2.605	 val_acc(avg): 51.562%
+[epoch: 80, iter:      2] val_loss(avg): 2.133	 val_acc(avg): 61.719%
+[epoch: 80, iter:      4] val_loss(avg): 2.039	 val_acc(avg): 63.594%
+[epoch: 80, iter:      6] val_loss(avg): 2.026	 val_acc(avg): 63.281%
+[epoch: 80, iter:      8] val_loss(avg): 2.079	 val_acc(avg): 62.674%
+[epoch: 80, iter:     10] val_loss(avg): 1.964	 val_acc(avg): 63.352%
+TRAIN
+[epoch: 81, iter:      1] loss(avg): 0.186	 train_acc(avg): 94.922%
+[epoch: 81, iter:      3] loss(avg): 0.214	 train_acc(avg): 92.969%
+[epoch: 81, iter:      5] loss(avg): 0.235	 train_acc(avg): 91.927%
+[epoch: 81, iter:      7] loss(avg): 0.217	 train_acc(avg): 92.539%
+###VALIDATION###
+[epoch: 81, iter:      0] val_loss(avg): 2.352	 val_acc(avg): 53.125%
+[epoch: 81, iter:      2] val_loss(avg): 1.957	 val_acc(avg): 62.240%
+[epoch: 81, iter:      4] val_loss(avg): 1.875	 val_acc(avg): 64.219%
+[epoch: 81, iter:      6] val_loss(avg): 1.848	 val_acc(avg): 63.951%
+[epoch: 81, iter:      8] val_loss(avg): 1.907	 val_acc(avg): 63.194%
+[epoch: 81, iter:     10] val_loss(avg): 1.833	 val_acc(avg): 63.281%
+TRAIN
+[epoch: 82, iter:      1] loss(avg): 0.225	 train_acc(avg): 92.578%
+[epoch: 82, iter:      3] loss(avg): 0.190	 train_acc(avg): 94.141%
+[epoch: 82, iter:      5] loss(avg): 0.230	 train_acc(avg): 93.099%
+[epoch: 82, iter:      7] loss(avg): 0.242	 train_acc(avg): 93.027%
+###VALIDATION###
+[epoch: 82, iter:      0] val_loss(avg): 2.365	 val_acc(avg): 52.344%
+[epoch: 82, iter:      2] val_loss(avg): 1.941	 val_acc(avg): 61.979%
+[epoch: 82, iter:      4] val_loss(avg): 1.860	 val_acc(avg): 63.750%
+[epoch: 82, iter:      6] val_loss(avg): 1.834	 val_acc(avg): 63.504%
+[epoch: 82, iter:      8] val_loss(avg): 1.888	 val_acc(avg): 62.760%
+[epoch: 82, iter:     10] val_loss(avg): 1.802	 val_acc(avg): 63.352%
+TRAIN
+[epoch: 83, iter:      1] loss(avg): 0.178	 train_acc(avg): 94.141%
+[epoch: 83, iter:      3] loss(avg): 0.207	 train_acc(avg): 93.555%
+[epoch: 83, iter:      5] loss(avg): 0.215	 train_acc(avg): 92.708%
+[epoch: 83, iter:      7] loss(avg): 0.220	 train_acc(avg): 92.266%
+###VALIDATION###
+[epoch: 83, iter:      0] val_loss(avg): 2.209	 val_acc(avg): 55.469%
+[epoch: 83, iter:      2] val_loss(avg): 1.856	 val_acc(avg): 63.281%
+[epoch: 83, iter:      4] val_loss(avg): 1.778	 val_acc(avg): 65.156%
+[epoch: 83, iter:      6] val_loss(avg): 1.751	 val_acc(avg): 64.955%
+[epoch: 83, iter:      8] val_loss(avg): 1.801	 val_acc(avg): 64.323%
+[epoch: 83, iter:     10] val_loss(avg): 1.730	 val_acc(avg): 64.631%
+TRAIN
+[epoch: 84, iter:      1] loss(avg): 0.269	 train_acc(avg): 90.625%
+[epoch: 84, iter:      3] loss(avg): 0.255	 train_acc(avg): 91.211%
+[epoch: 84, iter:      5] loss(avg): 0.226	 train_acc(avg): 92.057%
+[epoch: 84, iter:      7] loss(avg): 0.211	 train_acc(avg): 92.832%
+###VALIDATION###
+[epoch: 84, iter:      0] val_loss(avg): 2.381	 val_acc(avg): 53.125%
+[epoch: 84, iter:      2] val_loss(avg): 1.963	 val_acc(avg): 61.458%
+[epoch: 84, iter:      4] val_loss(avg): 1.863	 val_acc(avg): 63.750%
+[epoch: 84, iter:      6] val_loss(avg): 1.841	 val_acc(avg): 63.504%
+[epoch: 84, iter:      8] val_loss(avg): 1.912	 val_acc(avg): 62.674%
+[epoch: 84, iter:     10] val_loss(avg): 1.813	 val_acc(avg): 63.352%
+TRAIN
+[epoch: 85, iter:      1] loss(avg): 0.180	 train_acc(avg): 93.750%
+[epoch: 85, iter:      3] loss(avg): 0.188	 train_acc(avg): 93.359%
+[epoch: 85, iter:      5] loss(avg): 0.178	 train_acc(avg): 94.010%
+[epoch: 85, iter:      7] loss(avg): 0.217	 train_acc(avg): 92.949%
+###VALIDATION###
+[epoch: 85, iter:      0] val_loss(avg): 2.391	 val_acc(avg): 53.125%
+[epoch: 85, iter:      2] val_loss(avg): 1.975	 val_acc(avg): 62.500%
+[epoch: 85, iter:      4] val_loss(avg): 1.897	 val_acc(avg): 64.531%
+[epoch: 85, iter:      6] val_loss(avg): 1.879	 val_acc(avg): 64.062%
+[epoch: 85, iter:      8] val_loss(avg): 1.941	 val_acc(avg): 63.455%
+[epoch: 85, iter:     10] val_loss(avg): 1.853	 val_acc(avg): 64.205%
+TRAIN
+[epoch: 86, iter:      1] loss(avg): 0.276	 train_acc(avg): 89.453%
+[epoch: 86, iter:      3] loss(avg): 0.248	 train_acc(avg): 91.406%
+[epoch: 86, iter:      5] loss(avg): 0.266	 train_acc(avg): 90.495%
+[epoch: 86, iter:      7] loss(avg): 0.269	 train_acc(avg): 90.684%
+###VALIDATION###
+[epoch: 86, iter:      0] val_loss(avg): 2.275	 val_acc(avg): 48.438%
+[epoch: 86, iter:      2] val_loss(avg): 1.885	 val_acc(avg): 59.635%
+[epoch: 86, iter:      4] val_loss(avg): 1.812	 val_acc(avg): 61.875%
+[epoch: 86, iter:      6] val_loss(avg): 1.798	 val_acc(avg): 61.161%
+[epoch: 86, iter:      8] val_loss(avg): 1.852	 val_acc(avg): 60.590%
+[epoch: 86, iter:     10] val_loss(avg): 1.774	 val_acc(avg): 61.151%
+TRAIN
+[epoch: 87, iter:      1] loss(avg): 0.323	 train_acc(avg): 90.234%
+[epoch: 87, iter:      3] loss(avg): 0.300	 train_acc(avg): 91.016%
+[epoch: 87, iter:      5] loss(avg): 0.267	 train_acc(avg): 90.625%
+[epoch: 87, iter:      7] loss(avg): 0.247	 train_acc(avg): 91.758%
+###VALIDATION###
+[epoch: 87, iter:      0] val_loss(avg): 2.456	 val_acc(avg): 51.562%
+[epoch: 87, iter:      2] val_loss(avg): 2.042	 val_acc(avg): 61.198%
+[epoch: 87, iter:      4] val_loss(avg): 1.960	 val_acc(avg): 63.281%
+[epoch: 87, iter:      6] val_loss(avg): 1.954	 val_acc(avg): 62.612%
+[epoch: 87, iter:      8] val_loss(avg): 2.014	 val_acc(avg): 62.066%
+[epoch: 87, iter:     10] val_loss(avg): 1.946	 val_acc(avg): 62.429%
+TRAIN
+[epoch: 88, iter:      1] loss(avg): 0.279	 train_acc(avg): 90.234%
+[epoch: 88, iter:      3] loss(avg): 0.241	 train_acc(avg): 92.383%
+[epoch: 88, iter:      5] loss(avg): 0.237	 train_acc(avg): 92.578%
+[epoch: 88, iter:      7] loss(avg): 0.229	 train_acc(avg): 92.520%
+###VALIDATION###
+[epoch: 88, iter:      0] val_loss(avg): 2.390	 val_acc(avg): 53.906%
+[epoch: 88, iter:      2] val_loss(avg): 1.955	 val_acc(avg): 61.719%
+[epoch: 88, iter:      4] val_loss(avg): 1.860	 val_acc(avg): 63.594%
+[epoch: 88, iter:      6] val_loss(avg): 1.839	 val_acc(avg): 63.281%
+[epoch: 88, iter:      8] val_loss(avg): 1.914	 val_acc(avg): 62.500%
+[epoch: 88, iter:     10] val_loss(avg): 1.808	 val_acc(avg): 63.352%
+TRAIN
+[epoch: 89, iter:      1] loss(avg): 0.261	 train_acc(avg): 89.844%
+[epoch: 89, iter:      3] loss(avg): 0.269	 train_acc(avg): 90.820%
+[epoch: 89, iter:      5] loss(avg): 0.253	 train_acc(avg): 91.927%
+[epoch: 89, iter:      7] loss(avg): 0.246	 train_acc(avg): 92.031%
+###VALIDATION###
+[epoch: 89, iter:      0] val_loss(avg): 2.617	 val_acc(avg): 53.906%
+[epoch: 89, iter:      2] val_loss(avg): 2.103	 val_acc(avg): 62.760%
+[epoch: 89, iter:      4] val_loss(avg): 1.976	 val_acc(avg): 64.844%
+[epoch: 89, iter:      6] val_loss(avg): 1.967	 val_acc(avg): 64.174%
+[epoch: 89, iter:      8] val_loss(avg): 2.019	 val_acc(avg): 63.542%
+[epoch: 89, iter:     10] val_loss(avg): 1.914	 val_acc(avg): 63.707%
+TRAIN
+[epoch: 90, iter:      1] loss(avg): 0.222	 train_acc(avg): 92.969%
+[epoch: 90, iter:      3] loss(avg): 0.232	 train_acc(avg): 92.578%
+[epoch: 90, iter:      5] loss(avg): 0.245	 train_acc(avg): 91.667%
+[epoch: 90, iter:      7] loss(avg): 0.260	 train_acc(avg): 91.523%
+###VALIDATION###
+[epoch: 90, iter:      0] val_loss(avg): 2.435	 val_acc(avg): 49.219%
+[epoch: 90, iter:      2] val_loss(avg): 1.959	 val_acc(avg): 60.417%
+[epoch: 90, iter:      4] val_loss(avg): 1.854	 val_acc(avg): 62.969%
+[epoch: 90, iter:      6] val_loss(avg): 1.833	 val_acc(avg): 62.835%
+[epoch: 90, iter:      8] val_loss(avg): 1.896	 val_acc(avg): 62.066%
+[epoch: 90, iter:     10] val_loss(avg): 1.778	 val_acc(avg): 63.920%
+TRAIN
+[epoch: 91, iter:      1] loss(avg): 0.235	 train_acc(avg): 91.797%
+[epoch: 91, iter:      3] loss(avg): 0.232	 train_acc(avg): 91.406%
+[epoch: 91, iter:      5] loss(avg): 0.231	 train_acc(avg): 91.927%
+[epoch: 91, iter:      7] loss(avg): 0.223	 train_acc(avg): 91.914%
+###VALIDATION###
+[epoch: 91, iter:      0] val_loss(avg): 2.749	 val_acc(avg): 48.438%
+[epoch: 91, iter:      2] val_loss(avg): 2.235	 val_acc(avg): 60.156%
+[epoch: 91, iter:      4] val_loss(avg): 2.133	 val_acc(avg): 62.656%
+[epoch: 91, iter:      6] val_loss(avg): 2.099	 val_acc(avg): 62.500%
+[epoch: 91, iter:      8] val_loss(avg): 2.154	 val_acc(avg): 61.806%
+[epoch: 91, iter:     10] val_loss(avg): 2.054	 val_acc(avg): 62.997%
+TRAIN
+[epoch: 92, iter:      1] loss(avg): 0.232	 train_acc(avg): 91.406%
+[epoch: 92, iter:      3] loss(avg): 0.223	 train_acc(avg): 91.406%
+[epoch: 92, iter:      5] loss(avg): 0.219	 train_acc(avg): 91.536%
+[epoch: 92, iter:      7] loss(avg): 0.223	 train_acc(avg): 91.699%
+###VALIDATION###
+[epoch: 92, iter:      0] val_loss(avg): 2.958	 val_acc(avg): 50.000%
+[epoch: 92, iter:      2] val_loss(avg): 2.375	 val_acc(avg): 59.635%
+[epoch: 92, iter:      4] val_loss(avg): 2.255	 val_acc(avg): 62.031%
+[epoch: 92, iter:      6] val_loss(avg): 2.225	 val_acc(avg): 61.942%
+[epoch: 92, iter:      8] val_loss(avg): 2.296	 val_acc(avg): 61.285%
+[epoch: 92, iter:     10] val_loss(avg): 2.171	 val_acc(avg): 63.068%
+TRAIN
+[epoch: 93, iter:      1] loss(avg): 0.205	 train_acc(avg): 92.969%
+[epoch: 93, iter:      3] loss(avg): 0.200	 train_acc(avg): 92.969%
+[epoch: 93, iter:      5] loss(avg): 0.203	 train_acc(avg): 92.578%
+[epoch: 93, iter:      7] loss(avg): 0.204	 train_acc(avg): 92.500%
+###VALIDATION###
+[epoch: 93, iter:      0] val_loss(avg): 2.680	 val_acc(avg): 50.000%
+[epoch: 93, iter:      2] val_loss(avg): 2.161	 val_acc(avg): 60.156%
+[epoch: 93, iter:      4] val_loss(avg): 2.050	 val_acc(avg): 62.969%
+[epoch: 93, iter:      6] val_loss(avg): 2.053	 val_acc(avg): 62.500%
+[epoch: 93, iter:      8] val_loss(avg): 2.126	 val_acc(avg): 61.719%
+[epoch: 93, iter:     10] val_loss(avg): 1.977	 val_acc(avg): 63.920%
+TRAIN
+[epoch: 94, iter:      1] loss(avg): 0.243	 train_acc(avg): 89.844%
+[epoch: 94, iter:      3] loss(avg): 0.245	 train_acc(avg): 90.234%
+[epoch: 94, iter:      5] loss(avg): 0.228	 train_acc(avg): 91.146%
+[epoch: 94, iter:      7] loss(avg): 0.220	 train_acc(avg): 92.051%
+###VALIDATION###
+[epoch: 94, iter:      0] val_loss(avg): 2.543	 val_acc(avg): 52.344%
+[epoch: 94, iter:      2] val_loss(avg): 2.069	 val_acc(avg): 61.719%
+[epoch: 94, iter:      4] val_loss(avg): 1.981	 val_acc(avg): 64.062%
+[epoch: 94, iter:      6] val_loss(avg): 1.972	 val_acc(avg): 63.616%
+[epoch: 94, iter:      8] val_loss(avg): 2.036	 val_acc(avg): 63.021%
+[epoch: 94, iter:     10] val_loss(avg): 1.943	 val_acc(avg): 63.778%
+TRAIN
+[epoch: 95, iter:      1] loss(avg): 0.137	 train_acc(avg): 95.703%
+[epoch: 95, iter:      3] loss(avg): 0.138	 train_acc(avg): 95.703%
+[epoch: 95, iter:      5] loss(avg): 0.167	 train_acc(avg): 95.182%
+[epoch: 95, iter:      7] loss(avg): 0.154	 train_acc(avg): 95.996%
+###VALIDATION###
+[epoch: 95, iter:      0] val_loss(avg): 2.571	 val_acc(avg): 52.344%
+[epoch: 95, iter:      2] val_loss(avg): 2.068	 val_acc(avg): 62.240%
+[epoch: 95, iter:      4] val_loss(avg): 1.977	 val_acc(avg): 64.531%
+[epoch: 95, iter:      6] val_loss(avg): 1.969	 val_acc(avg): 64.062%
+[epoch: 95, iter:      8] val_loss(avg): 2.028	 val_acc(avg): 63.368%
+[epoch: 95, iter:     10] val_loss(avg): 1.937	 val_acc(avg): 64.205%
+TRAIN
+[epoch: 96, iter:      1] loss(avg): 0.120	 train_acc(avg): 97.266%
+[epoch: 96, iter:      3] loss(avg): 0.142	 train_acc(avg): 96.094%
+[epoch: 96, iter:      5] loss(avg): 0.149	 train_acc(avg): 95.312%
+[epoch: 96, iter:      7] loss(avg): 0.144	 train_acc(avg): 95.078%
+###VALIDATION###
+[epoch: 96, iter:      0] val_loss(avg): 2.889	 val_acc(avg): 50.000%
+[epoch: 96, iter:      2] val_loss(avg): 2.341	 val_acc(avg): 60.677%
+[epoch: 96, iter:      4] val_loss(avg): 2.267	 val_acc(avg): 62.656%
+[epoch: 96, iter:      6] val_loss(avg): 2.253	 val_acc(avg): 62.054%
+[epoch: 96, iter:      8] val_loss(avg): 2.322	 val_acc(avg): 61.285%
+[epoch: 96, iter:     10] val_loss(avg): 2.266	 val_acc(avg): 62.500%
+TRAIN
+[epoch: 97, iter:      1] loss(avg): 0.154	 train_acc(avg): 94.531%
+[epoch: 97, iter:      3] loss(avg): 0.170	 train_acc(avg): 93.945%
+[epoch: 97, iter:      5] loss(avg): 0.154	 train_acc(avg): 94.661%
+[epoch: 97, iter:      7] loss(avg): 0.162	 train_acc(avg): 94.395%
+###VALIDATION###
+[epoch: 97, iter:      0] val_loss(avg): 2.768	 val_acc(avg): 52.344%
+[epoch: 97, iter:      2] val_loss(avg): 2.263	 val_acc(avg): 61.198%
+[epoch: 97, iter:      4] val_loss(avg): 2.185	 val_acc(avg): 63.125%
+[epoch: 97, iter:      6] val_loss(avg): 2.165	 val_acc(avg): 62.723%
+[epoch: 97, iter:      8] val_loss(avg): 2.232	 val_acc(avg): 62.066%
+[epoch: 97, iter:     10] val_loss(avg): 2.142	 val_acc(avg): 62.926%
+TRAIN
+[epoch: 98, iter:      1] loss(avg): 0.151	 train_acc(avg): 94.141%
+[epoch: 98, iter:      3] loss(avg): 0.135	 train_acc(avg): 94.922%
+[epoch: 98, iter:      5] loss(avg): 0.154	 train_acc(avg): 94.922%
+[epoch: 98, iter:      7] loss(avg): 0.168	 train_acc(avg): 94.062%
+###VALIDATION###
+[epoch: 98, iter:      0] val_loss(avg): 2.972	 val_acc(avg): 51.562%
+[epoch: 98, iter:      2] val_loss(avg): 2.437	 val_acc(avg): 59.896%
+[epoch: 98, iter:      4] val_loss(avg): 2.356	 val_acc(avg): 61.875%
+[epoch: 98, iter:      6] val_loss(avg): 2.321	 val_acc(avg): 61.719%
+[epoch: 98, iter:      8] val_loss(avg): 2.379	 val_acc(avg): 60.938%
+[epoch: 98, iter:     10] val_loss(avg): 2.310	 val_acc(avg): 61.151%
+TRAIN
+[epoch: 99, iter:      1] loss(avg): 0.196	 train_acc(avg): 92.969%
+[epoch: 99, iter:      3] loss(avg): 0.176	 train_acc(avg): 94.336%
+[epoch: 99, iter:      5] loss(avg): 0.175	 train_acc(avg): 93.880%
+[epoch: 99, iter:      7] loss(avg): 0.187	 train_acc(avg): 93.086%
+###VALIDATION###
+[epoch: 99, iter:      0] val_loss(avg): 2.939	 val_acc(avg): 54.688%
+[epoch: 99, iter:      2] val_loss(avg): 2.383	 val_acc(avg): 62.240%
+[epoch: 99, iter:      4] val_loss(avg): 2.280	 val_acc(avg): 63.750%
+[epoch: 99, iter:      6] val_loss(avg): 2.257	 val_acc(avg): 63.281%
+[epoch: 99, iter:      8] val_loss(avg): 2.342	 val_acc(avg): 62.500%
+[epoch: 99, iter:     10] val_loss(avg): 2.279	 val_acc(avg): 62.855%
+
+
+Accuracy of g0 : 50.167%
+Accuracy of g1 : 50.389%
+Accuracy of g2 : 69.611%
+Accuracy of g3 : 65.056%
+Accuracy of g4 : 65.000%
+Accuracy of g5 : 60.222%
+Accuracy of g6 : 71.500%
+Accuracy of g7 : 44.889%
+Accuracy of g8 : 58.722%
+Accuracy of g9 : 46.333%
+Accuracy of g10 : 30.611%
+Accuracy of g11 : 18.000%

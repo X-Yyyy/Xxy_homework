@@ -1,0 +1,3 @@
+ResNet34P_leap_motion_tracking_data_prova
+
+TRAIN
