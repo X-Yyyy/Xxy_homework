@@ -1,0 +1,15 @@
+Accuracy: 0.8472222222222222
+Accuracy of g0 : 75.000%
+Accuracy of g1 : 100.000%
+Accuracy of g2 : 95.833%
+Accuracy of g3 : 87.500%
+Accuracy of g4 : 83.333%
+Accuracy of g5 : 87.500%
+Accuracy of g6 : 100.000%
+Accuracy of g7 : 91.667%
+Accuracy of g8 : 87.500%
+Accuracy of g9 : 83.333%
+Accuracy of g10 : 62.500%
+Accuracy of g11 : 62.500%
+
+Process finished with exit code 0
