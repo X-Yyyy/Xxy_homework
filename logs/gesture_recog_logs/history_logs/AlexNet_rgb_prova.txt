@@ -1,0 +1,5 @@
+AlexNet_rgb_prova
+
+TRAIN
+[epoch: 0, iter:      1] loss(avg): 2.482	 train_acc(avg): 9.375%
+[epoch: 0, iter:      3] loss(avg): 2.484	 train_acc(avg): 8.789%
